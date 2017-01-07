@@ -1,4 +1,4 @@
- Předtermín proběhne dne 21. prosince 2016. Přihlašování bude možné od 1. prosince 2016 od 17:00. Už není
+Předtermín proběhne dne 21. prosince 2016. Přihlašování bude možné od 1. prosince 2016 od 17:00. Už není
 Návrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a čtvrtek 19. ledna 2017. To fakt jít nechcete 
 
 # Otázky 	 	
@@ -172,7 +172,7 @@ Celní unie s jinými státy, mnohostranné a dvoustranné mezinárodní smlouvy
 
 - pachatel se na území státu v době páchání trestného činu nenacházel, ani zde nedošlo přímo k jeho spáchání, ale projevil se zde efekt/účinek jednání
 
-![image alt text](img/image_0.png)
+![alt text](img/image_0.png)
 
 [http://poker.nova.cz/clanek/novinky/antigua-chce-zalovat-usa-kvuli-zakazu-on-line-pokeru.html](http://poker.nova.cz/clanek/novinky/antigua-chce-zalovat-usa-kvuli-zakazu-on-line-pokeru.html)
 
@@ -235,7 +235,7 @@ Právní úprava OD v ČR – nová povinnost publikovat
 
 * Předpoklad pro navázání na Evropský katalog OD
 
-![image alt text](image_1.png)
+![image alt text](img/image_1.png)
 
 **4. Právní překážky při otevírání dat**
 
@@ -704,7 +704,7 @@ Pokud ale výše zmíněný camrecord nahrajete na torrent a tím podpoříte š
 
 Napodobenina se snaží přiblížit vhledu a funkčnosti původního produktu. Příkladem může být iphone s androidem, ale samotný produkt se snaží čistě přiblížit vhledu a funkčnosti, nesnaží se být originálem.
 
-![image alt text](image_2.png)
+![image alt text](img/image_2.png)
 
 						
 
