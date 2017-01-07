@@ -1,25 +1,26 @@
 Předtermín proběhne dne 21. prosince 2016. Přihlašování bude možné od 1. prosince 2016 od 17:00. Už není
-Návrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a čtvrtek 19. ledna 2017. To fakt jít nechcete 
+Návrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a čtvrtek 19. ledna 2017. To fakt jít nechcete
 
-# Otázky 	 	
+# Otázky
 
 ## Jurisdikce - Šárka
 
-**250****1. Vysvětlete základní problémy jurisdikce na internetu – teritorialita, otevřenost systému, problém s ukotvením situace k jednomu území a jeho právnímu řádu.**
+### 1. Vysvětlete základní problémy jurisdikce na internetu – teritorialita, otevřenost systému, problém s ukotvením situace k jednomu území a jeho právnímu řádu.
 
 teritorialita (místní příslušnost) -  určuje, který soud v rámci stejného článku soustavy soudů má projednat a rozhodnout konkrétní věc
 
-otevřenost systému - [https://cs.wikipedia.org/wiki/Otevřený_systém_(informatika)](https://cs.wikipedia.org/wiki/Otevřený_systém_(informatika))
+otevřenost systému - [Wiki](https://cs.wikipedia.org/wiki/Otevřený_systém_(informatika)
 
 Mapa
 
-Pozn. problém je, že věci řešíme různými způsoby a je potřeba vytvořit ucelený systém, podle kterého by se mělo postupovat -> úmluva.
+Pozn.
+>problém je, že věci řešíme různými způsoby a je potřeba vytvořit ucelený systém, podle kterého by se mělo postupovat -> úmluva.
 
 **UZNÁNÍ A VÝKON ROZHODNUTÍ**
 
-Procesní vztahy s mezinárodním prvkem – před výkonem rozhodnutí na území cizího státu je nutné toto rozhodnutí uznat 
+Procesní vztahy s mezinárodním prvkem – před výkonem rozhodnutí na území cizího státu je nutné toto rozhodnutí uznat
 
- Uznání – přiznání rozhodnutí má stejné právní účinky, které má ve státě vydání 
+ Uznání – přiznání rozhodnutí má stejné právní účinky, které má ve státě vydání
 
 Rozsudek cizího státu může mít na území ČR účinek jen tehdy, pokud tak stanoví zákon, nebo vyhlášená mezinárodní smlouva, kterou je ČR vázána (dvoustranné, mnohostranné)
 
@@ -31,7 +32,6 @@ b) Správní jurisdikce
 
 c) Finanční jurisdikce
 
-/*
 
 **a) TRESTNÍ JURISDIKCE**
 
@@ -51,15 +51,14 @@ c) Finanční jurisdikce
 
 -  Byly přímo spáchány na území příslušného státu
 
--  Jejichž následky se na území tohoto státu projevily 
+-  Jejichž následky se na území tohoto státu projevily
 
 - Které mají jen nepřímou souvislost s tímto územím
 
 -  Lze stíhat TČ, jejichž pachatel se nachází mimo zemí ČR, příklady
 
-*/
 
-**2. Uveďte základní přínosy a problémy Úmluvy o počítačové kriminalitě z pohledu trestání kyberkriminality na internetu.**
+### 2. Uveďte základní přínosy a problémy Úmluvy o počítačové kriminalitě z pohledu trestání kyberkriminality na internetu.
 
 **PŘÍNOSY**
 
@@ -81,11 +80,11 @@ c) Finanční jurisdikce
 
 [https://www.patria.cz/pravo/2694193/pocitacova-kriminalita-mezinarodni-umluva-je-konecne-zavazna-i-pro-cesko.html](https://www.patria.cz/pravo/2694193/pocitacova-kriminalita-mezinarodni-umluva-je-konecne-zavazna-i-pro-cesko.html)
 
-**3. Uveďte, jaké základní otázky spadají do finančního práva a finanční jurisdikce.**
+### 3. Uveďte, jaké základní otázky spadají do finančního práva a finanční jurisdikce.
 
 **Finanční jurisdikce a finanční právo**
 
-Pravomoc/příslušnost finančních orgánů, soudů 
+Pravomoc/příslušnost finančních orgánů, soudů
 
 **1. Daňová jurisdikce**
 
@@ -93,7 +92,7 @@ Pravomoc/příslušnost finančních orgánů, soudů
 
 * Zda dané zboží, služba bude zdaněna, ve kterém státě a v jaké výši
 
-Druhy daní  
+*Druhy daní*
 
 * **Přímé daně – stanovovány v závislosti na výši důchodu nebo majetku**
 
@@ -105,21 +104,21 @@ Druhy daní
 
 * **Nepřímé daně – uvalené na statky nebo služby**
 
-    * DPH 
+    * DPH
 
     * Spotřební daň
 
-* Často dochází k souběhu jurisdikcí více států = dvojí zdanění 
+* Často dochází k souběhu jurisdikcí více států = dvojí zdanění
 
-* Smlouvy o zamezení dvojího zdanění 
+* Smlouvy o zamezení dvojího zdanění
 
-* Metoda započtení (započte se daň zaplacená v jiném státě namísto části daně, která má být zaplacena v tomto státě) 
+* Metoda započtení (započte se daň zaplacená v jiném státě namísto části daně, která má být zaplacena v tomto státě)
 
 * Metoda vynětí (započte se základ daně vyměřený nebo podaný v daňovém přiznání v jiném státě místo části základu daně, který má být vyměřen nebo podán v daňovém přiznání v tomto státě)
 
-* Metoda zahrnutí daně zaplacené v zahraničí do nákladů 
+* Metoda zahrnutí daně zaplacené v zahraničí do nákladů
 
-* **Mezinárodní daňové organizace **
+* **Mezinárodní daňové organizace**
 
     *  Evropská organizace daňových správ (IOTA)  
 
@@ -135,21 +134,21 @@ Druhy daní
 
 U zboží  
 
-**Dělení cel ** 
+**Dělení cel**
 
-* dovozní clo – na dovážené zboží, dnes v rámci obchodu se státy mimo EU 
+* dovozní clo – na dovážené zboží, dnes v rámci obchodu se státy mimo EU
 
-* vývozní clo – na vyvážené zboží, v EU se nepoužívá 
+* vývozní clo – na vyvážené zboží, v EU se nepoužívá
 
 * průvozní clo - na zboží v tranzitním režimu - odstraněno v roce 1921 Barcelonskou úmluvou
 
-**Evropská unie  **
+**Evropská unie**
 
-V obchodu mezi členskými státy EU jsou cla zakázána úplně 
+V obchodu mezi členskými státy EU jsou cla zakázána úplně
 
-1968 – společná celní politika, Společný celní sazebník 
+1968 – společná celní politika, Společný celní sazebník
 
-1993 – jednotný vnitřní trh, 1994 Celní zákoník 
+1993 – jednotný vnitřní trh, 1994 Celní zákoník
 
 EU – jednotné celní území, odstranění všech cel mezi členskými státy  
 
@@ -165,7 +164,7 @@ Celní unie s jinými státy, mnohostranné a dvoustranné mezinárodní smlouvy
 
 * MF – internetové hry, loterie, sázky
 
-**4. Analyzujte základní body případu Antigua a Barbuda vs. USA (online gambling).**
+### 4. Analyzujte základní body případu Antigua a Barbuda vs. USA (online gambling).
 
 - koncepce efektivní přítomnosti pachatele na území státu
 
@@ -177,16 +176,15 @@ Celní unie s jinými státy, mnohostranné a dvoustranné mezinárodní smlouvy
 
 [http://www.pokerarena.cz/rubriky/aktuality/poker-v-usa-zakrok-fbi-proti-pokerstars-a-full-tilt-pokeru-zrejme-cechy-neovlivni_2729.html](http://www.pokerarena.cz/rubriky/aktuality/poker-v-usa-zakrok-fbi-proti-pokerstars-a-full-tilt-pokeru-zrejme-cechy-neovlivni_2729.html)
 
-[http://www.cnews.cz/clanky/karibsky-statecek-se-msti-usa-zlegalizuje-warez](http://www.cnews.cz/clanky/karibsky-statecek-se-msti-usa-zlegalizuje-warez) 
+[http://www.cnews.cz/clanky/karibsky-statecek-se-msti-usa-zlegalizuje-warez](http://www.cnews.cz/clanky/karibsky-statecek-se-msti-usa-zlegalizuje-warez)
 
 [https://is.muni.cz/th/170034/pravf_b/Reseni_sporu_v_ramci_WTO.pdf](https://is.muni.cz/th/170034/pravf_b/Reseni_sporu_v_ramci_WTO.pdf)
 
-**Otevřená data**** - Šárka
-****1. Pojem „otevřená data"**
+## Otevřená data - Šárka
 
-### **Otevřená data jsou informace a čísla bezplatně a volně dostupná na internetu ve strukturované a strojově čitelné podobě a jsou zpřístupněna způsobem, který jejich využití neklade zbytečné technické či jiné překážky.**
+### 1. Pojem *otevřená data*
 
- 
+> **Otevřená data jsou informace a čísla bezplatně a volně dostupná na internetu ve strukturované a strojově čitelné podobě a jsou zpřístupněna způsobem, který jejich využití neklade zbytečné technické či jiné překážky.**
 
 Formát a struktura otevřených dat tedy umožňuje jejich hromadné počítačové zpracování, k němuž jejich vydavatel poskytl právní svolení. Díky tomu mohou být dál volně zpracovávány, a to i v rámci softwarových aplikací.
 
@@ -194,33 +192,28 @@ Jedná se například o jízdní řády, příjmy států, seznam poskytovatelů
 
 V České republice můžeme díky zákonu o svobodném přístupu k informacím zatím získávat jen část z údajů, které úřady shromážďují. Pokud si o to zažádají a úřad jim vyhoví. Otevřená data by měl naopak zveřejnit sám vydavatel na internetu tak, aby je všichni mohli snadno najít a stáhnout. Otevřená data lze chápat i v širším smyslu - kromě informací veřejné správy lze využít i data komerčních subjektů.  
 
-**[http://www.jaknainternet.cz/page/1701/otevrena-data**/](http://www.jaknainternet.cz/page/1701/otevrena-data/)** **
+[http://www.jaknainternet.cz/page/1701/otevrena-data](http://www.jaknainternet.cz/page/1701/otevrena-data/)
 
-**
-****2. Obecná právní úprava otevřených dat**
+### 2. Obecná právní úprava otevřených dat**
 
 Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
+* „OD novela" z. č. 298/2016 Sb.
+* Účinnost od 1. 1. 2017
+* Navazuje na PSI novelu – z. č. 222/2015 Sb.
+* OD = Kvalifikovaný způsob poskytování informací zveřejněním
 
-• „OD novela" z. č. 298/2016 Sb. 
+* **§ 3 odst. 11:** „Otevřenými daty se pro účely tohoto zákona rozumí informace zveřejňované způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není omezen a které jsou evidovány v národním katalogu otevřených dat."
 
-• Účinnost od 1. 1. 2017 
-
-• Navazuje na PSI novelu – z. č. 222/2015 Sb. 
-
-•OD = Kvalifikovaný způsob poskytování informací zveřejněním
-
-**§ 3 odst. 11:** „Otevřenými daty se pro účely tohoto zákona rozumí informace zveřejňované způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není omezen a které jsou evidovány v národním katalogu otevřených dat."
-
-Právní úprava OD v ČR – nová povinnost publikovat 
+Právní úprava OD v ČR – nová povinnost publikovat
 
 * **§ 4b odst. 2:** „Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis." • Zmocnění Vlády vydat nařízení, kterým určí informace povinně poskytované jako OD („povinné datové sady“) = nastartování ekosystému OD.
 
 
-**3. Technická infrastruktura otevřených dat v ČR (katalogy a způsob registrace)**
+### 3. Technická infrastruktura otevřených dat v ČR (katalogy a způsob registrace)
 
 **• Národní katalog otevřených dat **
 
-* Informační systém veřejné správy 
+* Informační systém veřejné správy
 
 * Spravuje jej Ministerstvo vnitra (dle § 4c z. č. 106/1999 Sb., o svobodném přístupu k informacím)
 
@@ -228,7 +221,7 @@ Právní úprava OD v ČR – nová povinnost publikovat
 
 * Obsahuje Metadata ke všem OD v ČR
 
-* Může obsahovat rovněž přímo datové sady 
+* Může obsahovat rovněž přímo datové sady
 
 * Malá kapacita
 
@@ -236,7 +229,7 @@ Právní úprava OD v ČR – nová povinnost publikovat
 
 ![image alt text](img/image_1.png)
 
-**4. Právní překážky při otevírání dat**
+### 4. Právní překážky při otevírání dat
 
 * anonymizace dat (ochrana osobních údajů)
 
@@ -250,236 +243,146 @@ Právní úprava OD v ČR – nová povinnost publikovat
 
 Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/98/ES ze dne 17. listopadu 2003 o opakovaném použití informací veřejného sektoru ve znění Směrnice Evropského parlamentu a Rady 2013/37/EU ze dne 26. června 2013. Evropská směrnice je do české legislativy implementována zákonem 106/1999 Sb. o svobodném přístupu k informacím. Podrobnější rámec pro otevřená data má od 1.1.2017 poskytnout novela zákona č. 106/1999 Sb., o svobodném přístupu k informacím[[10]](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data#cite_note-10).
 
-[https://www.zakonyprolidi.cz/cs/1999-106](https://www.zakonyprolidi.cz/cs/1999-106) 
-
-
-**Osobní údaje - Maroš**
-
-**[https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.htm**l](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html)** 2.8 - 2.11**
-
-**1.**   	**Ochrana soukromí a ochrana osobních údajů – teorie a praxe**
-
-·         Ochrana súkromia
-
--  súkromnoprávna rovina
-
--  zaručená:
-
-·   čl. 7 Listiny základných práv a slobôd
-
-·   čl. 8 Európskej dohody (úmluvy) o ľudských práva a základných slobodách
-
-·   čl. 7 Charty základných ľudských práv Európskej únie
-
--  pri porušení je potrebné podať súkromnoprávnu žalobu na súd
-
-·   náklady na súdne konanie, poškodený je účastníkom konania
-
--  Reaktívny účinok – následne až po vykonaní skutku
-
-·         Ochrana osobných údajov
-
--  Osobný údaj
-
-·   Informácia, pomocou ktorej je možné jednoznačne identifikovať subjekt, hlavne na základne čísla, kódu, kombinácii viacerých znakov.
-
-·   Objektívne poňatie: Ak je možné pomocou tohto údaju spárovať človeka aj ilegálnymi prostriedkami, je to osobný údaj. (Judikatúra v Nemecku a novšie rozhodnutia Súdneho dvora Európskej únie (SDEU)
-
-·   Subjektívne poňatie: Ak je možné pomocou tohto údaju spárovať človeka bez neprimeraných nákladov (legálnymi prostriedkami), potom je to osobný údaj. V opačnom prípade to osobný údaj nie je. (Judikatúra ČR, staršie rozhodnutia SDEU)
-
--  Verejnoprávna rovina
-
--  Zaručená:
-
-·   Čl. 8 Charty základných ľudských práv Európskej únie
-
-·   Smernica o ochrane fyzických osôb pri spracovaní osobných údajov a voľnom pohybe týchto údajov 95/46/EHS do 28.5.2018
-
-·   Nariadenie o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov od 28.5.2018 – GDPR (General data protection regulation)
-
-·   Zákon o ochrane osobných údajov a o zmene niektorých zákonov
-
-č. 101/2000 Sb.
-
--  Pri podozrení na porušenie ochrany možné podať podnet na úrad na ochranu osobných údajov, ten následne zaháji správne konanie a oznamovateľ sa len dozvie výsledok, nie je účastníkom konania
-
- 
-
-**2.**   	**Základní principy zpracování osobních údajů**
-
-·         Spracovanie – zákon 101/2001 Sb. §4e
-
--Operácia alebo sústava operácii, ktoré správca alebo poverený spracovateľ systematicky vykonávajú, a to hlavne automatizovane alebo inými prostriedkami. Sú to prevažne:
-
-·         Zhromažďovanie, ukladanie na nosič informácii, uchovávanie
-
-·         Sprístupňovanie, šírenie, zverejňovanie,
-
-·         vyhľadávanie, úprava, pozmeňovanie, triedenie, kombinovanie
-
-·         blokovanie, likvidácia
-
--Zhromažďovanie OÚ:
-
-·         Postup alebo súbor postupov na získanie údajov, za účelom ich ďalšieho uloženia na nosič informácii pre ich okamžité alebo neskoršie spracovanie
-
--Uchovávanie OÚ:
-
-·         Udržiavanie údajov v podobe, ktorá umožňuje ich ďalšie spracovanie.
-
--Blokovanie OÚ:
-
-·         Operácia alebo sústava operácii, ktorými sa na stanovenú dobu obmedzí spôsob alebo prostriedky spracovania OÚ s výnimkou nevyhnutných zásahov
-
-·         Nutné náležitosti pre spracovanie OÚ:
-
--Informovaný súhlas o spracovaní osobných údajov, ktorý mimo iné musí obsahovať:
-
-·         Právny titul (kdo a v jakém rozsahu může spracovávat údaje)
-
-·         Legálny účel
-
-·         Prostriedky a spôsob spracovania – úkony spracovania
-
--Informovaný súhlas – slobodný a vedomý prejav vôle subjektu údajov, ktorého obsahom je súhlas objektu údajov so spracovaním jeho osobných údajov
-
-·         Zabezpečenie OÚ:
-
--Správca a spracovateľ sú povinní prijať bezpečnostné opatrenia, aby nemohlo nastať:
-
-·         Neoprávnený alebo náhodný prístup k OÚ, ich zneužitie, zmena, neoprávnený prenos, zničenie či strata
-
-·         Prístup neoprávnenej osoby
-
-·         Počas aj po skončení spracovania
-
--Technické opatrenia:
-
-·         Organizačné poistky
-
-·         Autentizácia a autorizácia prístupu k údajom
-
-·         Zmluvná úprava (Zmluva o mlčanlivosti - NDA – non-disclosure agreement)
-
-** **
-
-**3.****       ****Osobní údaje a jejich zpracování – vymezení a zúčastněné osoby**
-
-·         Subjekt údajov – Zákon 101/2000Sb §4d
-
--Fyzická osoba na ktorú sa vzťahujú osobné údaje
-
--Má právo požiadať správcu údajov o informáciu o spracovaní svojich osobných údajov:
-
-·         Účel spracovania, kategória OÚ, povaha automatizovaného spracovania, príjemcovia výsledkov spracovania
-
-·         Správca údajov – Zákon č. 101/2000 Sb. §5 ods. 1
-
--Subjekt, ktorý zodpovedá za spracovanie údajov, môže poveriť spracovateľa
-
--Povinný:
-
-·         Stanoviť účel, prostriedky a spôsob spracovania údajov
-
-·         Spracovať len presné osobné údaje, získané na základe zákona a súhlasu subjektu údajov, len v súlade s účelom, k čomu boli získané
-
-·         Zhromažďovať len osobné údaje nevyhnutné pre účel spracovania, nezhromažďovať osobné údaje pod zámienkou iného účelu
-
-·         Nezdružovať osobné údaje, ktoré boli získané k rozdielnym účelom
-
--Spracovanie OÚ bez súhlasu subjektu údajov v prípade:
-
-·         Spracovanie nevyhnutné pre splnenie právnej povinnosti správcu (napr. zákon 111/1198 Sb. O Vysokých školách)
-
-·         Nevyhnutné pre plnenie zmluvy, ak je jednou zo strán subjekt údajov
-
-·         Ochrany životne dôležitých záujmov subjektu údajov, súhlas je potrebné získať bez zbytočného odkladu, v opačnom prípade musí správca ukončiť spracovanie a zlikvidovať údaje
-
-·         Oprávnene zverejnené osobné údaje v súlade so zvláštnym predpisom (zákon č. 81/1966 Sb. O periodickej tlači a ostatných hromadných informačných prostriedkoch)
-
-·         Výlučne pre účely archívnictva podľa zvláštneho zákona (499/2004 Sb.)
-
-·          Spracovateľ – subjekt, ktorý na základe zvláštneho zákona alebo poverenia správcu spracováva osobné údaje
-
-**4.****       ****Zpracování citlivých osobních údajů – Zákon 101/2000 Sb. §9**
-
-·         Citlivé údaje
-
--Údaj vypovedajúci o národnostnom, rasovom alebo etnickom pôvodne, politických postojoch, členstvách v odborových organizáciach, náboženské alebo filozofické presvedčenie, odsúdenie za trestný čin, zdravotný stav a sexuálny život subjektu údajov a genetické údaje subjektu údajov (biometrika)
-
-·         Možné spracovanie na základe:
-
--Výslovný súhlas subjektu údajov, správca je povinný dokázať súhlas počas doby spracovania s informáciami o účele spracovania, spracovateľovi a doby spracovania, je povinný poučiť subjekt údajov o jeho právach podľa §12 a §21
-
--Nevyhnutný záujem na zachovaní života alebo zdravia subjektu údajov alebo odvrátenie bezprostredného závažného nebezpečenstva hroziaceho majetku subjektu údajov, pokiaľ nie je možné získať jeho súhlas z dôvodu fyzickej, psychickej alebo právnej nespôsobilosti, v prípade skončenia platnosti uvedených dôvodov je správca povinný tieto údaje zlikvidovať okrem prípadu, kedy subjekt údajov poskytne súhlas k ich ďalšiemu spracovaniu
-
--Poskytovanie zdravotných služieb, ochrany verejného zdravia, zdravotného poistenia a výkon štátnej správy v oblasti zdravotníctva
-
--Spracovanie nevyhnutné pre dodržanie povinnosti a práv správcu zodpovedného za spracovanie údajov v oblasti pracovného práva a zamestnanosti podľa zvláštneho zákona (zákon č. 65/1965, zákonník práce)
-
--Zverejnenie údajov subjektom údajov
-
--Zaistenie a uplatnenie právnych nárokov
-
--Pre účely archívnictva podľa zvláštneho zákona
-
--Na základne zvláštnych zákonov pri predchádzaní, vyhľadávaní, odhaľovaní trestnej činnosti, stíhaní trestných činov a pátraní po osobách
-
-·         Subjekt nesmie utrpieť ujmu na svojich právach spracovaním jeho citlivých OÚ, hlavne na zachovania ľudskej dôstojnosti a na nedotknuteľnosť súkromného a osobného života.
-
-·         Poučenie subjektu údajov:
-
--Rozsah a účel spracovania OÚ, komu môžu byť OÚ sprístupnené
-
--Právo na prístup a úpravu OÚ
-
--Dobrovoľné/povinné poskytnutie OÚ, následky povinného neposkytnutia OÚ
-
-·         Poučenie nie je správca povinný poskytnúť v prípade, ak OÚ nezískal od subjektu údajov, pokiaľ:
-
--Spracováva OÚ výlučne pre účely výkonu štátnej štatistickej služby, vedeckej alebo archívnej činnosti a poskytnutie takých informácii by vyžadovali neúmerné úsilie alebo neprimerane vysoké náklady, alebo pokiaľ je ukladanie na nosič informácii alebo sprístupnenie je výslovne stanovené zvláštnym zákonom
-
--Spracovanie OÚ správcovi ukladá zvláštny zákon
-
--Spracováva výlučne oprávnene zverejnené OÚ alebo so súhlasom subjektu údajov
-
-·         Správca je povinný bezodkladne povinný informovať subjekt údajov o spracovaní jeho osobných údajov, túto povinnosť môže za správcu plniť spracovateľ OÚ
-
- 
-
- 
-
-**5.****     ****Práva subjektu údajů ve vztahu ke správci a zpracovateli** – Zákon 101/2000 Sb. §12, §21
-
-·         Právo na informácie o spracovaní svojich osobných údajov správcom OÚ, obsahuje:
-
--Účel spracovania OÚ
-
--Osobné údaje, príp. kategória osobných údajov, vrátane všetkých dostupných informácii o ich zdroji
-
--Povahe automatizovaného spracovania v súvislosti s využitím pre rozhodovanie
-
--Príjemcovia, kategórie príjemcov
-
-·         Môže za správcu splniť spracovateľ OÚ
-
-·         Právo na primeranú náhradu za poskytnuté informácie neprevyšujúce náklady na nevyhnutné poskytnutie informácie
-
-·         Právo požiadať správcu o vysvetlenie v prípade podozrenia na porušenie zákona pri spracovaní zákona, právo požadovať odstránenie chybného stavu – doplnenie, opravenie, likvidácia OÚ
-
-**Elektronické důkazy**** - Honza**
+[https://www.zakonyprolidi.cz/cs/1999-106](https://www.zakonyprolidi.cz/cs/1999-106)
+
+
+## Osobní údaje - Maroš
+
+[https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html)** 2.8 - 2.11**
+
+### 1. Ochrana soukromí a ochrana osobních údajů – teorie a praxe
+
+* Ochrana súkromia
+  * súkromnoprávna rovina
+  * zaručená:
+    * čl. 7 Listiny základných práv a slobôd
+    * čl. 8 Európskej dohody (úmluvy) o ľudských práva a základných slobodách
+    * čl. 7 Charty základných ľudských práv Európskej únie
+  * pri porušení je potrebné podať súkromnoprávnu žalobu na súd
+    * náklady na súdne konanie, poškodený je účastníkom konania
+  * Reaktívny účinok – následne až po vykonaní skutku
+
+* Ochrana osobných údajov
+  * Osobný údaj
+    * Informácia, pomocou ktorej je možné jednoznačne identifikovať subjekt, hlavne na základne čísla, kódu, kombinácii viacerých znakov.
+    * Objektívne poňatie: Ak je možné pomocou tohto údaju spárovať človeka aj ilegálnymi prostriedkami, je to osobný údaj. (Judikatúra v Nemecku a novšie rozhodnutia Súdneho dvora Európskej únie (SDEU)
+    * Subjektívne poňatie: Ak je možné pomocou tohto údaju spárovať človeka bez neprimeraných nákladov (legálnymi prostriedkami), potom je to osobný údaj. V opačnom prípade to osobný údaj nie je. (Judikatúra ČR, staršie rozhodnutia SDEU)
+
+  * Verejnoprávna rovina
+  * Zaručená:
+    * Čl. 8 Charty základných ľudských práv Európskej únie
+    * Smernica o ochrane fyzických osôb pri spracovaní osobných údajov a voľnom pohybe týchto údajov 95/46/EHS do 28.5.2018
+    * Nariadenie o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov od 28.5.2018 – GDPR (General data protection regulation)
+    * Zákon o ochrane osobných údajov a o zmene niektorých zákonov č. 101/2000 Sb.
+
+  * Pri podozrení na porušenie ochrany možné podať podnet na úrad na ochranu osobných údajov, ten následne zaháji správne konanie a oznamovateľ sa len dozvie výsledok, nie je účastníkom konania
+
+
+
+### 2. Základní principy zpracování osobních údajů
+* Spracovanie – zákon 101/2001 Sb. §4e
+  * Operácia alebo sústava operácii, ktoré správca alebo poverený spracovateľ systematicky vykonávajú, a to hlavne automatizovane alebo inými prostriedkami. Sú to prevažne:
+    * Zhromažďovanie, ukladanie na nosič informácii, uchovávanie
+    * Sprístupňovanie, šírenie, zverejňovanie,
+    * vyhľadávanie, úprava, pozmeňovanie, triedenie, kombinovanie
+    * blokovanie, likvidácia
+  * Zhromažďovanie OÚ:
+    * Postup alebo súbor postupov na získanie údajov, za účelom ich ďalšieho uloženia na nosič informácii pre ich okamžité alebo neskoršie spracovanie
+  * Uchovávanie OÚ:
+    * Udržiavanie údajov v podobe, ktorá umožňuje ich ďalšie spracovanie.
+  * Blokovanie OÚ:
+    * Operácia alebo sústava operácii, ktorými sa na stanovenú dobu obmedzí spôsob alebo prostriedky spracovania OÚ s výnimkou nevyhnutných zásahov
+* Nutné náležitosti pre spracovanie OÚ:
+  * Informovaný súhlas o spracovaní osobných údajov, ktorý mimo iné musí obsahovať:
+    * Právny titul (kdo a v jakém rozsahu může spracovávat údaje)
+    * Legálny účel
+    * Prostriedky a spôsob spracovania – úkony spracovania
+  * Informovaný súhlas – slobodný a vedomý prejav vôle subjektu údajov, ktorého obsahom je súhlas objektu údajov so spracovaním jeho osobných údajov
+* Zabezpečenie OÚ:
+  * Správca a spracovateľ sú povinní prijať bezpečnostné opatrenia, aby nemohlo nastať:
+    * Neoprávnený alebo náhodný prístup k OÚ, ich zneužitie, zmena, neoprávnený prenos, zničenie či strata
+    * Prístup neoprávnenej osoby
+    * Počas aj po skončení spracovania
+
+* Technické opatrenia:
+  * Organizačné poistky
+  * Autentizácia a autorizácia prístupu k údajom
+  * Zmluvná úprava (Zmluva o mlčanlivosti - NDA – non-disclosure agreement)
+
+### 3. Osobní údaje a jejich zpracování – vymezení a zúčastněné osoby
+
+* Subjekt údajov – Zákon 101/2000Sb §4d
+  * Fyzická osoba na ktorú sa vzťahujú osobné údaje
+  * Má právo požiadať správcu údajov o informáciu o spracovaní svojich osobných údajov:
+    * Účel spracovania, kategória OÚ, povaha automatizovaného spracovania, príjemcovia výsledkov spracovania
+* Správca údajov – Zákon č. 101/2000 Sb. §5 ods. 1
+  * Subjekt, ktorý zodpovedá za spracovanie údajov, môže poveriť spracovateľa
+    * Povinný:
+      * Stanoviť účel, prostriedky a spôsob spracovania údajov
+      * Spracovať len presné osobné údaje, získané na základe zákona a súhlasu subjektu údajov, len v súlade s účelom, k čomu boli získané
+      * Zhromažďovať len osobné údaje nevyhnutné pre účel spracovania, nezhromažďovať osobné údaje pod zámienkou iného účelu
+      * Nezdružovať osobné údaje, ktoré boli získané k rozdielnym účelom
+    * Spracovanie OÚ bez súhlasu subjektu údajov v prípade:
+      * Spracovanie nevyhnutné pre splnenie právnej povinnosti správcu (napr. zákon 111/1198 Sb. O Vysokých školách)
+      * Nevyhnutné pre plnenie zmluvy, ak je jednou zo strán subjekt údajov
+      *  Ochrany životne dôležitých záujmov subjektu údajov, súhlas je potrebné získať bez zbytočného odkladu, v opačnom prípade musí správca ukončiť spracovanie a zlikvidovať údaje
+      * Oprávnene zverejnené osobné údaje v súlade so zvláštnym predpisom (zákon č. 81/1966 Sb. O periodickej tlači a ostatných hromadných informačných prostriedkoch)
+      * Výlučne pre účely archívnictva podľa zvláštneho zákona (499/2004 Sb.)
+
+* Spracovateľ – subjekt, ktorý na základe zvláštneho zákona alebo poverenia správcu spracováva osobné údaje
+
+### 4. Zpracování citlivých osobních údajů – *Zákon 101/2000 Sb. §9*
+
+* Citlivé údaje
+  * Údaj vypovedajúci o národnostnom, rasovom alebo etnickom pôvodne, politických postojoch, členstvách v odborových organizáciach, náboženské alebo filozofické presvedčenie, odsúdenie za trestný čin, zdravotný stav a sexuálny život subjektu údajov a genetické údaje subjektu údajov (biometrika)
+
+* Možné spracovanie na základe:
+  * Výslovný súhlas subjektu údajov, správca je povinný dokázať súhlas počas doby spracovania s informáciami o účele spracovania, spracovateľovi a doby spracovania, je povinný poučiť subjekt údajov o jeho právach podľa §12 a §21
+  * Nevyhnutný záujem na zachovaní života alebo zdravia subjektu údajov alebo odvrátenie bezprostredného závažného nebezpečenstva hroziaceho majetku subjektu údajov, pokiaľ nie je možné získať jeho súhlas z dôvodu fyzickej, psychickej alebo právnej nespôsobilosti, v prípade skončenia platnosti uvedených dôvodov je správca povinný tieto údaje zlikvidovať okrem prípadu, kedy subjekt údajov poskytne súhlas k ich ďalšiemu spracovaniu
+  * Poskytovanie zdravotných služieb, ochrany verejného zdravia, zdravotného poistenia a výkon štátnej správy v oblasti zdravotníctva
+  * Spracovanie nevyhnutné pre dodržanie povinnosti a práv správcu zodpovedného za spracovanie údajov v oblasti pracovného práva a zamestnanosti podľa zvláštneho zákona (zákon č. 65/1965, zákonník práce)
+  * Zverejnenie údajov subjektom údajov
+  * Zaistenie a uplatnenie právnych nárokov
+  * Pre účely archívnictva podľa zvláštneho zákona
+  * Na základne zvláštnych zákonov pri predchádzaní, vyhľadávaní, odhaľovaní trestnej činnosti, stíhaní trestných činov a pátraní po osobách
+
+* Subjekt nesmie utrpieť ujmu na svojich právach spracovaním jeho citlivých OÚ, hlavne na zachovania ľudskej dôstojnosti a na nedotknuteľnosť súkromného a osobného života.
+* Poučenie subjektu údajov:
+  * Rozsah a účel spracovania OÚ, komu môžu byť OÚ sprístupnené
+  * Právo na prístup a úpravu OÚ
+  * Dobrovoľné/povinné poskytnutie OÚ, následky povinného neposkytnutia OÚ
+* Poučenie nie je správca povinný poskytnúť v prípade, ak OÚ nezískal od subjektu údajov, pokiaľ:
+  * Spracováva OÚ výlučne pre účely výkonu štátnej štatistickej služby, vedeckej alebo archívnej činnosti a poskytnutie takých informácii by vyžadovali neúmerné úsilie alebo neprimerane vysoké náklady, alebo pokiaľ je ukladanie na nosič informácii alebo sprístupnenie je výslovne stanovené zvláštnym zákonom
+  * Spracovanie OÚ správcovi ukladá zvláštny zákon
+  * Spracováva výlučne oprávnene zverejnené OÚ alebo so súhlasom subjektu údajov
+* Správca je povinný bezodkladne povinný informovať subjekt údajov o spracovaní jeho osobných údajov, túto povinnosť môže za správcu plniť spracovateľ OÚ
+
+### 5. Práva subjektu údajů ve vztahu ke správci a zpracovateli – *Zákon 101/2000 Sb. §12, §21*
+
+* Právo na informácie o spracovaní svojich osobných údajov správcom OÚ, obsahuje:
+  * Účel spracovania OÚ
+  * Osobné údaje, príp. kategória osobných údajov, vrátane všetkých dostupných informácii o ich zdroji
+  * Povahe automatizovaného spracovania v súvislosti s využitím pre rozhodovanie
+  * Príjemcovia, kategórie príjemcov
+    * Môže za správcu splniť spracovateľ OÚ
+* Právo na primeranú náhradu za poskytnuté informácie neprevyšujúce náklady na nevyhnutné poskytnutie informácie
+
+* Právo požiadať správcu o vysvetlenie v prípade podozrenia na porušenie zákona pri spracovaní zákona, právo požadovať odstránenie chybného stavu – doplnenie, opravenie, likvidácia OÚ
+
+## Elektronické důkazy - Honza
 
 Podle §89 TŘ (2) je důkazem vše, co může přispět k objasnění věci. Důkazní prostředek tak lze vymezit jako „zdroj, z něhož orgán činný v trestním řízení důkazy čerpá (výpovědi osob, věci)"
 
-Elektronický důkaz =  zdroj relevantní informace v elektronické podobě (data). Pojem elektronické důkazní prostředky není v současném platném právu České republiky nikde definován a vlastně ani zmíněn. 
+Elektronický důkaz =  zdroj relevantní informace v elektronické podobě (data). Pojem elektronické důkazní prostředky není v současném platném právu České republiky nikde definován a vlastně ani zmíněn.
 
 Nejobecněji lze v tomto smyslu elektronické důkazní prostředky definovat jako takové „důkazní prostředky, k jejichž převodu do podoby srozumitelné pro člověka je třeba použít nějaké elektronické zařízení".
 
-**1. Jaké nároky jsou kladeny na zákonnost elektronického důkazu?**
+### 1. Jaké nároky jsou kladeny na zákonnost elektronického důkazu?
 
 Podle § 2 zákona č. 480/2004 Sb., o některých službách informační společnosti, že tyto důkazní prostředky získávají důkazy pomocí sítě elektronických komunikací, elektronických komunikačních zařízení, koncových telekomunikačních zařízení a elektronické pošty. Jedná se o elektronické důkazy jako elektronickou textovou poštu, hlasovou, zvukovou nebo obrazovou zprávu, obsah webových stránek a počítačová data.
 
 **Zákon č. 141/1961 Sb., trestní řád**
+![babis](http://img.cncenter.cz/img/12/normal1050/3126237_cesko-finance-babis.jpg)
 
 **Procesní nástroje elektronických důkazů**
 
@@ -555,7 +458,7 @@ Zákon elektronickou poštu definuje jako textovou, hlasovou, zvukovou nebo obra
 
 Ke zjištění obsahu e-mailové elektronické komunikace uskutečněné v době po zajištění datového nosiče orgánem činným v trestním řízení je proto třeba příkazu soudce podle § 88 TŘ, pokud již předmětný příkaz nebyl vydán před zajištěním datového nosiče a příkaz je stále platný.
 
-Zajištění počítače nebo mobilního telefonu neopravňuje orgány činné v trestním řízení, aby i do budoucna bez dalšího využívaly jako důkazní materiál docházející e-maily a další údaje chráněné v rámci práva na ochranu soukromí a dalších práv. Za situace, kdy orgány činné v trestním řízení nemají k dispozici datový nosič, na kterém je elektronická komunikace uložena, a potřebují za účelem objasnění skutkových okolností zjistit obsah elektronické komunikace uložené v e-mailové schránce, mohou do tohoto soukromého prostoru zasáhnout na základě povolení sledování osob a věcí soudem podle § 158d odst. 1 a 3 TŘ v rozsahu specifikovaném v soudním rozhodnutí, neboť obsah e-mailové schránky lze považovat za jiné záznamy uchovávané v soukromí za použití technických prostředků. 
+Zajištění počítače nebo mobilního telefonu neopravňuje orgány činné v trestním řízení, aby i do budoucna bez dalšího využívaly jako důkazní materiál docházející e-maily a další údaje chráněné v rámci práva na ochranu soukromí a dalších práv. Za situace, kdy orgány činné v trestním řízení nemají k dispozici datový nosič, na kterém je elektronická komunikace uložena, a potřebují za účelem objasnění skutkových okolností zjistit obsah elektronické komunikace uložené v e-mailové schránce, mohou do tohoto soukromého prostoru zasáhnout na základě povolení sledování osob a věcí soudem podle § 158d odst. 1 a 3 TŘ v rozsahu specifikovaném v soudním rozhodnutí, neboť obsah e-mailové schránky lze považovat za jiné záznamy uchovávané v soukromí za použití technických prostředků.
 
 Z názoru Ústavního soudu lze dovodit, že zjištění aktuálního obsahu e-mailové schránky se může vztahovat nejen na odeslané e-mailové zprávy, ale i na e-maily ve složce odstraněných zpráv a na rozepsané a doručené zprávy, včetně těch, které si příjemce doposud nepřečetl, pokud tuto možnost objektivně měl.
 
@@ -569,7 +472,7 @@ Pozn. v případě 158d nám může být poskytnuto zařízení ke kompletní ko
 
 Paradox - v Německu mají odlišný přístup - schránka chráněna komunikačním tajemstvím.
 
-Více str.123 [El. důkazy - Polčák](https://science.law.muni.cz/knihy/monografie/Polcak_Elektronicke_dukazy.pdf) 
+Více str.123 [El. důkazy - Polčák](https://science.law.muni.cz/knihy/monografie/Polcak_Elektronicke_dukazy.pdf)
 
 
 **5. Popište rozdíly v modu přístupu k provozním a lokalizačním údajům pro subjekty řídící se zákonem o elektronických komunikacích a pro ****subjekty, které se tímto zákonem neřídí****.**
@@ -592,9 +495,9 @@ Nelze použít §8 (Součinnost)
 
 Trestní řád donedávna obsahoval i možnost vyžádání si provozních a lokalizačních údajů od poskytovatelů, telekomunikačních operátorů.
 
-Tyto informace měli být poskytnuty soudci a v přípravném řízení státnímu zástupci nebo policejnímu orgánu. Ústavní soud však toto ustanovení svými nálezy zrušilo, protože nekladlo dostatečné záruky pro ochranu práva na soukromí. 
+Tyto informace měli být poskytnuty soudci a v přípravném řízení státnímu zástupci nebo policejnímu orgánu. Ústavní soud však toto ustanovení svými nálezy zrušilo, protože nekladlo dostatečné záruky pro ochranu práva na soukromí.
 
-Byly zde neurčité podmínky využitelnosti údajů pro trestní řízení, chybějící vymezení trestných činů, při jejichž stíhání lze data použít. To vedlo z nárůstu žádostí o tyto informace a zároveň tedy i k zásahu do základních práv. 
+Byly zde neurčité podmínky využitelnosti údajů pro trestní řízení, chybějící vymezení trestných činů, při jejichž stíhání lze data použít. To vedlo z nárůstu žádostí o tyto informace a zároveň tedy i k zásahu do základních práv.
 
 Ústavní soud zrušil poskytování provozních a lokalizačních údajů dvěma kroky. Nejdříve v březnu roku 2011 zrušil povinnost telekomunikačních operátorů uchovávat tyto údaje a poté na konci stejného roku zrušil možnost vyžádaní těchto údajů úplně.
 
@@ -603,7 +506,7 @@ Zákon o elektronických komunikacích tedy upravuje způsob uchovávání provo
 
 **Odposlech a záznam - zákon č. 127/2005 Sb. **
 
-**[§97** ](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)[(3)](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97) 
+**[§97** ](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)[(3)](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)
 
 **Ochrana osobních, provozních a lokalizačních údajů a důvěrnost komunikací**
 
@@ -641,7 +544,7 @@ e) České národní bance
 
 Právnická nebo fyzická osoba zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinna uchovávat po dobu 6 měsíců provozní a lokalizační údaje…
 
-Zajímavosti: 
+Zajímavosti:
 
 [http://www.bulletin-advokacie.cz/k-uchovavani-provoznich-a-lokalizacnich?browser=mobi](http://www.bulletin-advokacie.cz/k-uchovavani-provoznich-a-lokalizacnich?browser=mobi)
 
@@ -651,9 +554,9 @@ Zajímavosti:
 
 **1. Charakterizujte a stručně popište přestupky na úseku porušování průmyslových práv. Uveďte příklad takového jednání.**
 
-Přestupek porušování průmyslových práv 
+Přestupek porušování průmyslových práv
 
-Přestupku se dopustí ten, kdo neoprávněně **vykonával** práva, která jsou zákony na ochranu průmyslového vlastnictví vyhrazena majitelům těchto práv [§ 33 odst. 1 písm. a) přestupkového zákona]. 
+Přestupku se dopustí ten, kdo neoprávněně **vykonával** práva, která jsou zákony na ochranu průmyslového vlastnictví vyhrazena majitelům těchto práv [§ 33 odst. 1 písm. a) přestupkového zákona].
 
 Na rozdíl od souvisejícího trestného (viz. dole) činu lze postihnout všechna jednání, kterými osoba zasahuje do všech průmyslových práv, naplní-li toto jednání obecné znaky přestupku, a to včetně práv k ochranným známkám či označením původu. Za tento přestupek lze uložit pokutu do 15 000 korun, trest propadnutí věci a za určitých okolností trest zákazu činnosti.
 
@@ -677,18 +580,18 @@ Pokud v zákoně není jasně řečeno že se jedná o trestný čin nebo přest
 
 **Trestný čin porušování průmyslových práv**
 
-Tohoto trestného činu se dopustí osoba, která neoprávněně zasáhne do práv k chráněnému vynálezu, užitnému vzoru, průmyslovému vzoru a topografii polovodičových výrobků (§ 151 tr. zákona). Nejde tedy o kompletní výčet všech předmětů průmyslového vlastnictví. Jde pouze o některá tzv. tvůrčí průmyslová práva. 
+Tohoto trestného činu se dopustí osoba, která neoprávněně zasáhne do práv k chráněnému vynálezu, užitnému vzoru, průmyslovému vzoru a topografii polovodičových výrobků (§ 151 tr. zákona). Nejde tedy o kompletní výčet všech předmětů průmyslového vlastnictví. Jde pouze o některá tzv. tvůrčí průmyslová práva.
 
-V případě tohoto trestného činu nebude již tak obvyklé, že by jedním skutkem pachatel zasáhl do více práv chráněných touto skutkovou podstatou. Naopak, nebude až tak vzácná situace, kdy takovým jednáním bude zároveň naplněna i skutková podstata trestného činu jiného, a to trestného činu zásahu do autorských práv; zejména v případě průmyslových vzorů. V tomto případě půjde o jednočinný souběh, kdy jedním činem je naplněno několik skutkových podstat. 
+V případě tohoto trestného činu nebude již tak obvyklé, že by jedním skutkem pachatel zasáhl do více práv chráněných touto skutkovou podstatou. Naopak, nebude až tak vzácná situace, kdy takovým jednáním bude zároveň naplněna i skutková podstata trestného činu jiného, a to trestného činu zásahu do autorských práv; zejména v případě průmyslových vzorů. V tomto případě půjde o jednočinný souběh, kdy jedním činem je naplněno několik skutkových podstat.
 
-Zde se již jedná o závažnější případy. Pokud na výše zmíněném příkladě s součástkou se výrobce obohatil a úmyslně ukradl výrobní metodu. Soud v tomto případě může rozhodnou, že se výrobce dopustil trestného činu. 
+Zde se již jedná o závažnější případy. Pokud na výše zmíněném příkladě s součástkou se výrobce obohatil a úmyslně ukradl výrobní metodu. Soud v tomto případě může rozhodnou, že se výrobce dopustil trestného činu.
 
-Paragraf 269 a 270 zákon 40/2009 
+Paragraf 269 a 270 zákon 40/2009
 
 
 **4. Charakterizujte a stručně popište trestný čin porušení autorského práva, práv souvisejících s právem autorským a práv k databázi. Uveďte příklad takového jednání**
 
-Trestný čin porušování autorského práva, práv souvisejících s právem autorským a práv k databázi 
+Trestný čin porušování autorského práva, práv souvisejících s právem autorským a práv k databázi
 
 (1) Kdo neoprávněně zasáhne do zákonem chráněných práv k autorskému dílu, uměleckému výkonu, zvukovému či zvukově obrazovému záznamu, rozhlasovému nebo televiznímu vysílání nebo databázi, bude potrestán odnětím svobody až na dvě léta nebo peněžitým trestem nebo propadnutím věci.
 
@@ -705,19 +608,8 @@ Napodobenina se snaží přiblížit vhledu a funkčnosti původního produktu. 
 
 ![image alt text](img/image_2.png)
 
-						
 
-Celní orgány jsou oprávněny zadržet zboží, které je pod celním dohledem, pokud mají podezření, že toto zboží porušuje práva duševního vlastnictví. Držitel práva duševního vlastnictví** ****musí**** na základě sdělení, že podezřelé zboží bylo zadrženo, zahájit řízení u soudu, **při němž bude určeno, zda zadržené zboží práva duševního vlastnictví skutečně porušuje. Alternativně může držitel práva duševního vlastnictví celnímu úřadu předložit návrh na zničení zadrženého zboží, aniž by bylo nutné zjišťovat, zda toto zboží práva duševního vlastnictví porušuje. K žádosti o zničení zboží musí být připojen souhlas se zničením zboží poskytnutý deklarantem, vlastníkem nebo držitelem zboží. 
+
+Celní orgány jsou oprávněny zadržet zboží, které je pod celním dohledem, pokud mají podezření, že toto zboží porušuje práva duševního vlastnictví. Držitel práva duševního vlastnictví **musí** na základě sdělení, že podezřelé zboží bylo zadrženo, zahájit řízení u soudu, **při němž bude určeno, zda zadržené zboží práva duševního vlastnictví skutečně porušuje. Alternativně může držitel práva duševního vlastnictví celnímu úřadu předložit návrh na zničení zadrženého zboží, aniž by bylo nutné zjišťovat, zda toto zboží práva duševního vlastnictví porušuje. K žádosti o zničení zboží musí být připojen souhlas se zničením zboží poskytnutý deklarantem, vlastníkem nebo držitelem zboží.
 
 Celní úřady jsou oprávněny zajistit a následně rozhodnout o propadnutí nebo zabrání zboží naplňujícího znaky porušení zákazu klamavých obchodních praktik. Celní úřady rozhodují v rámci jimi vedeného správního řízení, proto se nevyžaduje zahajování řízení o určení padělku u soudu.
-
-					
-
-				
-
-			
-
-		
-
-
-
