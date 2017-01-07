@@ -14,7 +14,6 @@ otevřenost systému - [https://cs.wikipedia.org/wiki/Otevřený_systém_(inform
 Mapa
 
 Pozn. problém je, že věci řešíme různými způsoby a je potřeba vytvořit ucelený systém, podle kterého by se mělo postupovat -> úmluva.
-￼￼￼￼￼￼￼￼￼￼￼￼￼
 
 **UZNÁNÍ A VÝKON ROZHODNUTÍ**
 
