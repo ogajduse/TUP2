@@ -254,7 +254,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 [https://www.zakonyprolidi.cz/cs/1999-106](https://www.zakonyprolidi.cz/cs/1999-106) 
 
 
-**Osobní údaje**** - Maroš**
+**Osobní údaje - Maroš**
 
 **[https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.htm**l](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html)** 2.8 - 2.11**
 
