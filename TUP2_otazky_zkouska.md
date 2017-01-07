@@ -1,4 +1,5 @@
- Předtermín proběhne dne 21. prosince 2016. Přihlašování bude možné od 1. prosince 2016 od 17:00. Už neníNávrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a čtvrtek 19. ledna 2017. To fakt jít nechcete 
+ Předtermín proběhne dne 21. prosince 2016. Přihlašování bude možné od 1. prosince 2016 od 17:00. Už není
+Návrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a čtvrtek 19. ledna 2017. To fakt jít nechcete 
 
 # Otázky 	 	
 
@@ -12,7 +13,8 @@ otevřenost systému - [https://cs.wikipedia.org/wiki/Otevřený_systém_(inform
 
 Mapa
 
-Pozn. problém je, že věci řešíme různými způsoby a je potřeba vytvořit ucelený systém, podle kterého by se mělo postupovat -> úmluva.￼￼￼￼￼￼￼￼￼￼￼￼￼
+Pozn. problém je, že věci řešíme různými způsoby a je potřeba vytvořit ucelený systém, podle kterého by se mělo postupovat -> úmluva.
+￼￼￼￼￼￼￼￼￼￼￼￼￼
 
 **UZNÁNÍ A VÝKON ROZHODNUTÍ**
 
@@ -170,7 +172,7 @@ Celní unie s jinými státy, mnohostranné a dvoustranné mezinárodní smlouvy
 
 - pachatel se na území státu v době páchání trestného činu nenacházel, ani zde nedošlo přímo k jeho spáchání, ale projevil se zde efekt/účinek jednání
 
-![image alt text](image_0.png)
+![image alt text](img/image_0.png)
 
 [http://poker.nova.cz/clanek/novinky/antigua-chce-zalovat-usa-kvuli-zakazu-on-line-pokeru.html](http://poker.nova.cz/clanek/novinky/antigua-chce-zalovat-usa-kvuli-zakazu-on-line-pokeru.html)
 
@@ -180,7 +182,8 @@ Celní unie s jinými státy, mnohostranné a dvoustranné mezinárodní smlouvy
 
 [https://is.muni.cz/th/170034/pravf_b/Reseni_sporu_v_ramci_WTO.pdf](https://is.muni.cz/th/170034/pravf_b/Reseni_sporu_v_ramci_WTO.pdf)
 
-**Otevřená data**** - Šárka****1. Pojem „otevřená data"**
+**Otevřená data**** - Šárka
+****1. Pojem „otevřená data"**
 
 ### **Otevřená data jsou informace a čísla bezplatně a volně dostupná na internetu ve strukturované a strojově čitelné podobě a jsou zpřístupněna způsobem, který jejich využití neklade zbytečné technické či jiné překážky.**
 
@@ -194,7 +197,8 @@ V České republice můžeme díky zákonu o svobodném přístupu k informacím
 
 **[http://www.jaknainternet.cz/page/1701/otevrena-data**/](http://www.jaknainternet.cz/page/1701/otevrena-data/)** **
 
-******2. Obecná právní úprava otevřených dat**
+**
+****2. Obecná právní úprava otevřených dat**
 
 Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
 
@@ -212,7 +216,8 @@ Právní úprava OD v ČR – nová povinnost publikovat
 
 * **§ 4b odst. 2:** „Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis." • Zmocnění Vlády vydat nařízení, kterým určí informace povinně poskytované jako OD („povinné datové sady“) = nastartování ekosystému OD.
 
-**3. Technická infrastruktura otevřených dat v ČR (katalogy a způsob registrace)**
+
+**3. Technická infrastruktura otevřených dat v ČR (katalogy a způsob registrace)**
 
 **• Národní katalog otevřených dat **
 
@@ -248,7 +253,8 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 
 [https://www.zakonyprolidi.cz/cs/1999-106](https://www.zakonyprolidi.cz/cs/1999-106) 
 
-**Osobní údaje**** - Maroš**
+
+**Osobní údaje**** - Maroš**
 
 **[https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.htm**l](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html)** 2.8 - 2.11**
 
@@ -486,9 +492,12 @@ Podle § 2 zákona č. 480/2004 Sb., o některých službách informační spole
 
 [§158d Sledování osob a věcí](http://zakony.centrum.cz/trestni-rad/cast-2-hlava-9-paragraf-158d)
 
-**§78 TŘ (1)** Kdo má u sebe hmotnou věc důležitou pro trestní řízení, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely trestního řízení zajistit, je povinen věc na vyzvání těmto orgánům vydat. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění (§ 66).**(2) **Povinnost podle odstavce 1 se nevztahuje na listinu, jejíž obsah se týká okolnosti, o které platí zákaz výslechu, ledaže došlo k zproštění povinnosti zachovat věc v tajnosti nebo k zproštění povinnosti mlčenlivosti (§ 99).**(3)** Vyzvat k vydání věci je oprávněn předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán.
+**§78 TŘ (1)** Kdo má u sebe hmotnou věc důležitou pro trestní řízení, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely trestního řízení zajistit, je povinen věc na vyzvání těmto orgánům vydat. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění (§ 66).
+**(2) **Povinnost podle odstavce 1 se nevztahuje na listinu, jejíž obsah se týká okolnosti, o které platí zákaz výslechu, ledaže došlo k zproštění povinnosti zachovat věc v tajnosti nebo k zproštění povinnosti mlčenlivosti (§ 99).
+**(3)** Vyzvat k vydání věci je oprávněn předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán.
 
-**§88 TŘ (6) **Má-li být záznam telekomunikačního provozu užit jako důkaz, je třeba k němu připojit protokol s uvedením údajů o místě, času, způsobu a obsahu provedeného záznamu, jakož i o orgánu, který záznam pořídil. …**§88a TŘ** **(1)** Je-li třeba pro účely trestního řízení vedeného pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně tři roky, pro trestný čin porušení tajemství dopravovaných zpráv (§ 182 trestního zákoníku), pro trestný čin podvodu (§ 209 trestního zákoníku), pro trestný čin neoprávněného přístupu k počítačovému systému a nosiči informací (§ 230 trestního zákoníku), pro trestný čin opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat (§ 231 trestního zákoníku), pro trestný čin nebezpečného vyhrožování (§ 353 trestního zákoníku), pro trestný čin nebezpečného pronásledování (§ 354 trestního zákoníku), pro trestný čin šíření poplašné zprávy (§ 357 trestního zákoníku), pro trestný čin podněcování k trestnému činu (§ 364 trestního zákoníku), pro trestný čin schvalování trestného činu (§ 365 trestního zákoníku), nebo pro úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána…
+**§88 TŘ (6) **Má-li být záznam telekomunikačního provozu užit jako důkaz, je třeba k němu připojit protokol s uvedením údajů o místě, času, způsobu a obsahu provedeného záznamu, jakož i o orgánu, který záznam pořídil. …
+**§88a TŘ** **(1)** Je-li třeba pro účely trestního řízení vedeného pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně tři roky, pro trestný čin porušení tajemství dopravovaných zpráv (§ 182 trestního zákoníku), pro trestný čin podvodu (§ 209 trestního zákoníku), pro trestný čin neoprávněného přístupu k počítačovému systému a nosiči informací (§ 230 trestního zákoníku), pro trestný čin opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat (§ 231 trestního zákoníku), pro trestný čin nebezpečného vyhrožování (§ 353 trestního zákoníku), pro trestný čin nebezpečného pronásledování (§ 354 trestního zákoníku), pro trestný čin šíření poplašné zprávy (§ 357 trestního zákoníku), pro trestný čin podněcování k trestnému činu (§ 364 trestního zákoníku), pro trestný čin schvalování trestného činu (§ 365 trestního zákoníku), nebo pro úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána…
 
 [https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf](https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf)
 
@@ -540,7 +549,8 @@ Pozn. se souhlasem soudce lze požadovat tajné informace mimo komunikaci s advo
 
 -> Jsou-li od poskytovatele služby vyžadována data neobsahující informace, která jsou předmětem povinnosti mlčenlivosti, lze je vyžádat při využití institutu dožádání upraveného v § 8 odst. 1 TŘ.
 
-**4. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k zjišťování obsahu mailové schránky.**
+
+**4. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k zjišťování obsahu mailové schránky.**
 
 Zákon elektronickou poštu definuje jako textovou, hlasovou, zvukovou nebo obrazovou zprávu poslanou prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne.
 
@@ -562,7 +572,8 @@ Paradox - v Německu mají odlišný přístup - schránka chráněna komunikač
 
 Více str.123 [El. důkazy - Polčák](https://science.law.muni.cz/knihy/monografie/Polcak_Elektronicke_dukazy.pdf) 
 
-**5. Popište rozdíly v modu přístupu k provozním a lokalizačním údajům pro subjekty řídící se zákonem o elektronických komunikacích a pro ****subjekty, které se tímto zákonem neřídí****.**
+
+**5. Popište rozdíly v modu přístupu k provozním a lokalizačním údajům pro subjekty řídící se zákonem o elektronických komunikacích a pro ****subjekty, které se tímto zákonem neřídí****.**
 
 Provozní a lokalizační údaje (6 měsíců) – Platí pro subjekty dle ZEK – mimo ZEK se nevztahuje a uchovávání není nutné. ([ZEK §91](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-91))
 
@@ -588,7 +599,8 @@ Byly zde neurčité podmínky využitelnosti údajů pro trestní řízení, chy
 
 Ústavní soud zrušil poskytování provozních a lokalizačních údajů dvěma kroky. Nejdříve v březnu roku 2011 zrušil povinnost telekomunikačních operátorů uchovávat tyto údaje a poté na konci stejného roku zrušil možnost vyžádaní těchto údajů úplně.
 
-**Současnost**Zákon o elektronických komunikacích tedy upravuje způsob uchovávání provozních a lokalizačních údajů a vymezuje okruh subjektů, které k nim mohou mít přístup při splnění dalších podmínek. Právě tyto podmínky, za kterých uvedené subjekty mohou získat přístup k uchovaným údajům, upravují další zákony, konkrétně zákon č. 141/1963 Sb., trestní řád, zákon č. 273/2008 Sb., o Policii ČR, zákon č. 154/1994 Sb., o Bezpečnostní informační službě, zákon č. 289/2005 Sb., o Vojenském zpravodajství, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu.
+**Současnost**
+Zákon o elektronických komunikacích tedy upravuje způsob uchovávání provozních a lokalizačních údajů a vymezuje okruh subjektů, které k nim mohou mít přístup při splnění dalších podmínek. Právě tyto podmínky, za kterých uvedené subjekty mohou získat přístup k uchovaným údajům, upravují další zákony, konkrétně zákon č. 141/1963 Sb., trestní řád, zákon č. 273/2008 Sb., o Policii ČR, zákon č. 154/1994 Sb., o Bezpečnostní informační službě, zákon č. 289/2005 Sb., o Vojenském zpravodajství, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu.
 
 **Odposlech a záznam - zákon č. 127/2005 Sb. **
 
@@ -652,7 +664,8 @@ Po konzultaci s kamarádkou právničkou, jsme došli do závěru, že vždy př
 
 Příkladem přestupku ve věci průmyslových práv může být vytvoření např. součástky, která ale je vyhotovená nějakou speciální metodou. Pokud tato metoda je již patentována ale výrobce o tom nevěděl. Došlo k narušení průmyslového práva nedbalostí, tedy není důvod proč trestat výrobce přísně. Tato věc by ve výsledku se řešila například pokutou.
 
-**2. Charakterizujte a stručně popište přestupky a správní delikty na úseku autorského práva. Uveďte příklad takového jednání.**
+
+**2. Charakterizujte a stručně popište přestupky a správní delikty na úseku autorského práva. Uveďte příklad takového jednání.**
 
 Přestupku se dopustí ten, kdo neoprávněně **užije** autorské dílo, umělecký výkon, zvukový či zvukově obrazový záznam, rozhlasové nebo televizní vysílání nebo databázi.
 
@@ -660,7 +673,8 @@ Opětovně se jedná o rozsah překročení práva. Pokud pořídíte camrecord 
 
 Pokud v zákoně není jasně řečeno že se jedná o trestný čin nebo přestupek, může se jednat o jiný správní delikt. Správní delikt se řeší pouze dle správního řádu. V rámci správního deliktu hrozí mnoho násobně větší pokuty. U autorského práva platí totéž.
 
-**3. Charakterizujte a stručně popište trestný čin porušení chráněných průmyslových práv. Uveďte příklad takového jednání.**
+
+**3. Charakterizujte a stručně popište trestný čin porušení chráněných průmyslových práv. Uveďte příklad takového jednání.**
 
 **Trestný čin porušování průmyslových práv**
 
@@ -672,7 +686,8 @@ Zde se již jedná o závažnější případy. Pokud na výše zmíněném př�
 
 Paragraf 269 a 270 zákon 40/2009 
 
-**4. Charakterizujte a stručně popište trestný čin porušení autorského práva, práv souvisejících s právem autorským a práv k databázi. Uveďte příklad takového jednání**
+
+**4. Charakterizujte a stručně popište trestný čin porušení autorského práva, práv souvisejících s právem autorským a práv k databázi. Uveďte příklad takového jednání**
 
 Trestný čin porušování autorského práva, práv souvisejících s právem autorským a práv k databázi 
 
@@ -682,7 +697,8 @@ Trestný čin porušování autorského práva, práv souvisejících s právem 
 
 Pokud ale výše zmíněný camrecord nahrajete na torrent a tím podpoříte šíření, může se již jednat o trestný čin, protože došlo k velké finanční újmě autorovi. Vyčíslit tuto škodu můžeme na základě počtu stažení a tím vyhodnotit počet lidí, kteří nešli z tohoto důvodu do kina.
 
-**5. Jakou roli hraje při veřejnoprávní ochraně práv duševního vlastnictví Celní správa ČR? Jaký je rozdíl mezi padělkem a neoprávněnou napodobeninou?**
+
+**5. Jakou roli hraje při veřejnoprávní ochraně práv duševního vlastnictví Celní správa ČR? Jaký je rozdíl mezi padělkem a neoprávněnou napodobeninou?**
 
 **Padělek**, **falzifikát** nebo **falzum** je předmět, který se vydává za jiný, obvykle cennější předmět. Jeho původce je **padělatel** nebo **falzátor** a jeho činnost je označována jako [padělání](https://cs.wikipedia.org/wiki/Pad%C4%9Bl%C3%A1n%C3%AD). Padělky se vyskytují v mnoha oblastech, počínaje [platidly](https://cs.wikipedia.org/wiki/Platidlo) (penězokazectví), listinami a dokumenty, přes [umělecké předměty](https://cs.wikipedia.org/wiki/Um%C4%9Bn%C3%AD), [starožitnost](https://cs.wikipedia.org/wiki/Staro%C5%BEitnost) i až po [průmyslové](https://cs.wikipedia.org/wiki/Pr%C5%AFmysl) [zboží](https://cs.wikipedia.org/wiki/Zbo%C5%BE%C3%AD), zejména značkové. Příkladem můžou být telefóny iphone s androidem, které na sobě mají logo nakousnutého jablka
 
