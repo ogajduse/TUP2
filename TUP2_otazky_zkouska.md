@@ -281,7 +281,6 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
     * Neoprávnený alebo náhodný prístup k OÚ, ich zneužitie, zmena, neoprávnený prenos, zničenie či strata
     * Prístup neoprávnenej osoby
     * Počas aj po skončení spracovania
-
 * Technické opatrenia:
   * Organizačné poistky
   * Autentizácia a autorizácia prístupu k údajom
@@ -293,6 +292,8 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
   * Fyzická osoba na ktorú sa vzťahujú osobné údaje
   * Má právo požiadať správcu údajov o informáciu o spracovaní svojich osobných údajov:
     * Účel spracovania, kategória OÚ, povaha automatizovaného spracovania, príjemcovia výsledkov spracovania
+
+
 * Správca údajov – Zákon č. 101/2000 Sb. §5 ods. 1
   * Subjekt, ktorý zodpovedá za spracovanie údajov, môže poveriť spracovateľa
     * Povinný:
@@ -307,12 +308,14 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
       * Oprávnene zverejnené osobné údaje v súlade so zvláštnym predpisom (zákon č. 81/1966 Sb. O periodickej tlači a ostatných hromadných informačných prostriedkoch)
       * Výlučne pre účely archívnictva podľa zvláštneho zákona (499/2004 Sb.)
 
+
 * Spracovateľ – subjekt, ktorý na základe zvláštneho zákona alebo poverenia správcu spracováva osobné údaje
 
 ### 4. Zpracování citlivých osobních údajů – *Zákon 101/2000 Sb. §9*
 
 * Citlivé údaje
   * Údaj vypovedajúci o národnostnom, rasovom alebo etnickom pôvodne, politických postojoch, členstvách v odborových organizáciach, náboženské alebo filozofické presvedčenie, odsúdenie za trestný čin, zdravotný stav a sexuálny život subjektu údajov a genetické údaje subjektu údajov (biometrika)
+
 
 * Možné spracovanie na základe:
   * Výslovný súhlas subjektu údajov, správca je povinný dokázať súhlas počas doby spracovania s informáciami o účele spracovania, spracovateľovi a doby spracovania, je povinný poučiť subjekt údajov o jeho právach podľa §12 a §21
@@ -323,6 +326,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
   * Zaistenie a uplatnenie právnych nárokov
   * Pre účely archívnictva podľa zvláštneho zákona
   * Na základne zvláštnych zákonov pri predchádzaní, vyhľadávaní, odhaľovaní trestnej činnosti, stíhaní trestných činov a pátraní po osobách
+
 
 * Subjekt nesmie utrpieť ujmu na svojich právach spracovaním jeho citlivých OÚ, hlavne na zachovania ľudskej dôstojnosti a na nedotknuteľnosť súkromného a osobného života.
 * Poučenie subjektu údajov:
@@ -344,12 +348,10 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
   * Príjemcovia, kategórie príjemcov
     * Môže za správcu splniť spracovateľ OÚ
 * Právo na primeranú náhradu za poskytnuté informácie neprevyšujúce náklady na nevyhnutné poskytnutie informácie
-
 * Právo požiadať správcu o vysvetlenie v prípade podozrenia na porušenie zákona pri spracovaní zákona, právo požadovať odstránenie chybného stavu – doplnenie, opravenie, likvidácia OÚ
 
 ## Elektronické důkazy - Honza
-
-Podle §89 TŘ (2) je důkazem vše, co může přispět k objasnění věci. Důkazní prostředek tak lze vymezit jako „zdroj, z něhož orgán činný v trestním řízení důkazy čerpá (výpovědi osob, věci)"
+Podle §89 TŘ (2) je důkazem vše, co může přispět k objasnění věci. Důkazní prostředek tak lze vymezit jako *„zdroj, z něhož orgán činný v trestním řízení důkazy čerpá (výpovědi osob, věci)"*
 
 Elektronický důkaz =  zdroj relevantní informace v elektronické podobě (data). Pojem elektronické důkazní prostředky není v současném platném právu České republiky nikde definován a vlastně ani zmíněn.
 
@@ -361,7 +363,6 @@ Podle § 2 zákona č. 480/2004 Sb., o některých službách informační spole
 
 **Zákon č. 141/1961 Sb., trestní řád**
 ![babis](http://img.cncenter.cz/img/12/normal1050/3126237_cesko-finance-babis.jpg)
-
 **Procesní nástroje elektronických důkazů**
 
 [§78 Povinnost k vydání věci](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-78)
@@ -372,7 +373,7 @@ Podle § 2 zákona č. 480/2004 Sb., o některých službách informační spole
 
 [§158d Sledování osob a věcí](http://zakony.centrum.cz/trestni-rad/cast-2-hlava-9-paragraf-158d)
 
-**§78 TŘ (1)** Kdo má u sebe hmotnou věc důležitou pro trestní řízení, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely trestního řízení zajistit, je povinen věc na vyzvání těmto orgánům vydat. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění (§ 66).
+**§78 TŘ (1)** Kdo má u sebe *hmotnou věc důležitou pro trestní řízení*, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely trestního řízení zajistit, je povinen věc na vyzvání těmto orgánům vydat. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění (§ 66).
 **(2) **Povinnost podle odstavce 1 se nevztahuje na listinu, jejíž obsah se týká okolnosti, o které platí zákaz výslechu, ledaže došlo k zproštění povinnosti zachovat věc v tajnosti nebo k zproštění povinnosti mlčenlivosti (§ 99).
 **(3)** Vyzvat k vydání věci je oprávněn předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán.
 
@@ -381,13 +382,13 @@ Podle § 2 zákona č. 480/2004 Sb., o některých službách informační spole
 
 [https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf](https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf)
 
-**2. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k použití sledovacího software.**
+## 2. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k použití sledovacího software.
 
-**§88 TŘ **
+**§88 TŘ**
 
-**(2) **Nařídit odposlech a záznam telekomunikačního provozu je oprávněn předseda senátu a v přípravném řízení na návrh státního zástupce soudce ... (písemně)
+**(2)** Nařídit odposlech a záznam telekomunikačního provozu je oprávněn předseda senátu a v přípravném řízení na návrh státního zástupce soudce ... (písemně)
 
-**(5) **Bez příkazu k odposlechu a záznamu telekomunikačního provozu může orgán činný v trestním řízení nařídit odposlech a záznam telekomunikačního provozu, nebo jej provést i sám, je-li vedeno trestní řízení pro trestný čin obchodování s lidmi (§ 168 trestního zákoníku), svěření dítěte do moci jiného (§ 169 trestního zákoníku), omezování osobní svobody (§ 171 trestního zákoníku), vydírání (§ 175 trestního zákoníku), únosu dítěte a osoby stižené duševní poruchou (§ 200 trestního zákoníku), násilí proti skupině obyvatelů a proti jednotlivci (§ 352 trestního zákoníku), nebezpečného vyhrožování (§ 353 trestního zákoníku) nebo nebezpečného pronásledování (§ 354 trestního zákoníku), pokud s tím uživatel odposlouchávané stanice souhlasí.
+**(5)** Bez příkazu k odposlechu a záznamu telekomunikačního provozu může orgán činný v trestním řízení nařídit odposlech a záznam telekomunikačního provozu, nebo jej provést i sám, je-li vedeno trestní řízení pro trestný čin obchodování s lidmi (§ 168 trestního zákoníku), svěření dítěte do moci jiného (§ 169 trestního zákoníku), omezování osobní svobody (§ 171 trestního zákoníku), vydírání (§ 175 trestního zákoníku), únosu dítěte a osoby stižené duševní poruchou (§ 200 trestního zákoníku), násilí proti skupině obyvatelů a proti jednotlivci (§ 352 trestního zákoníku), nebezpečného vyhrožování (§ 353 trestního zákoníku) nebo nebezpečného pronásledování (§ 354 trestního zákoníku), pokud s tím uživatel odposlouchávané stanice souhlasí.
 
 **§158d TŘ (2)** Sledování, při kterém mají být pořizovány zvukové, obrazové nebo jiné záznamy, lze uskutečnit pouze na základě písemného povolení státního zástupce.
 
@@ -402,35 +403,32 @@ Podle § 2 zákona č. 480/2004 Sb., o některých službách informační spole
 **§158d** - bez spolupráce s poskytovatelem služby (technicky zajišťuje ÚZČ). Při sledování lze pořizovat zvukové, obrazové a jiné záznamy – na povolení státního zástupce. Lze zasahovat do nedotknutelnosti obydlí, do listovního tajemství nebo záznamů uchovaných v soukromí za použití technických prostředků – na povolení soudce. …
 
 **ROZDÍL**
-
 * u 88 lze nařídit odposlech bez příkazu ve stanovených situacích
-
 * u 88 je délka povolení odposlechu v délce 4 měsíců (možnost opakovaně), u 158d jde o 6 měsíční interval
+* soudce/státní zástupce/předseda senátu (lepší přečíst :D) :+1:
 
-* soudce/státní zástupce/předseda senátu (lepší přečíst :D)
-
-**3. Popište rozdíly ve fungování §88 TŘ a §8 odst. 5 TŘ ve vztahu k mobilnímu ****telefonu****.**
+## 3. Popište rozdíly ve fungování §88 TŘ a §8 odst. 5 TŘ ve vztahu k mobilnímu telefonu.
 
 **§88 TŘ (1)** ... Provádění odposlechu a záznamu telekomunikačního provozu mezi obhájcem a obviněným je nepřípustné. Zjistí-li policejní orgán při odposlechu a záznamu telekomunikačního provozu, že obviněný komunikuje se svým obhájcem, je povinen záznam odposlechu bezodkladně zničit a informace, které se v této souvislosti dozvěděl, nijak nepoužít. Protokol o zničení záznamu založí do spisu.
 
-**(9)** Provozovatelé telekomunikační činnosti, jejich zaměstnanci a jiné osoby, které se na provozování telekomunikační činnosti podílejí, jakož i pošta nebo osoba provádějící dopravu zásilek jsou povinny bezúplatně poskytovat policejnímu orgánu provádějícímu sledování podle jeho pokynů nezbytnou součinnost.** **Přitom se nelze dovolávat povinnosti mlčenlivosti stanovené zvláštními zákony.
+**(9)** Provozovatelé telekomunikační činnosti, jejich zaměstnanci a jiné osoby, které se na provozování telekomunikační činnosti podílejí, jakož i pošta nebo osoba provádějící dopravu zásilek jsou povinny bezúplatně poskytovat policejnímu orgánu provádějícímu sledování podle jeho pokynů nezbytnou součinnost. *Přitom se nelze dovolávat povinnosti mlčenlivosti stanovené zvláštními zákony.*
 
-Pozn. soudním příkazem nebo se souhlasem účastníka odposlouchávané stanice. Důkazem je pouze, pokud je připojen protokol (viz. 1). 4 měsíce - opakované prodlužování.
+Pozn.
+> soudním příkazem nebo se souhlasem účastníka odposlouchávané stanice. Důkazem je pouze, pokud je připojen protokol (viz. 1). 4 měsíce - opakované prodlužování.
 
 **§8 TŘ (5)** Nestanoví-li zvláštní zákon podmínky, za nichž lze pro účely trestního řízení sdělovat informace, které jsou podle takového zákona utajovány, nebo na něž se vztahuje povinnost mlčenlivosti, lze tyto informace pro trestní řízení vyžadovat po předchozím souhlasu soudce. Tím není dotčena povinnost mlčenlivosti advokáta podle zákona o advokacii.
 
 Pozn. se souhlasem soudce lze požadovat tajné informace mimo komunikaci s advokátem.
 
 **ROZDÍL**
-
 * §8 je zaměřený na data (utajovaná data), v případě §88 se jedná o prostou komunikaci?
 
-""”Informace o uživatelských účtech, logy zaznamenávané poskytovatelem, na něž se nevztahuje telekomunikační tajemství, informace o  fungování služby, různá metadata apod. Kromě toho lze tímto způsobem získávat i data, která mají podobný charakter jako provozní a lokalizační údaje, ale nejsou dožadována od poskytovatele telekomunikačních služeb dle ZEK.””” Polčákova chytrá kniha (106)
+>""”*Informace o uživatelských účtech, logy zaznamenávané poskytovatelem, na něž se nevztahuje telekomunikační tajemství, informace o  fungování služby, různá metadata apod. Kromě toho lze tímto způsobem získávat i data, která mají podobný charakter jako provozní a lokalizační údaje, ale nejsou dožadována od poskytovatele telekomunikačních služeb dle ZEK.*””” Polčákova chytrá kniha (106)
 
 -> Jsou-li od poskytovatele služby vyžadována data neobsahující informace, která jsou předmětem povinnosti mlčenlivosti, lze je vyžádat při využití institutu dožádání upraveného v § 8 odst. 1 TŘ.
 
 
-**4. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k zjišťování obsahu mailové schránky.**
+## 4. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k zjišťování obsahu mailové schránky.
 
 Zákon elektronickou poštu definuje jako textovou, hlasovou, zvukovou nebo obrazovou zprávu poslanou prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne.
 
@@ -452,8 +450,7 @@ Paradox - v Německu mají odlišný přístup - schránka chráněna komunikač
 
 Více str.123 [El. důkazy - Polčák](https://science.law.muni.cz/knihy/monografie/Polcak_Elektronicke_dukazy.pdf)
 
-
-**5. Popište rozdíly v modu přístupu k provozním a lokalizačním údajům pro subjekty řídící se zákonem o elektronických komunikacích a pro ****subjekty, které se tímto zákonem neřídí****.**
+## 5. Popište rozdíly v modu přístupu k provozním a lokalizačním údajům pro subjekty řídící se zákonem o elektronických komunikacích a pro subjekty, které se tímto zákonem neřídí.
 
 Provozní a lokalizační údaje (6 měsíců) – Platí pro subjekty dle ZEK – mimo ZEK se nevztahuje a uchovávání není nutné. ([ZEK §91](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-91))
 
@@ -469,7 +466,7 @@ Nelze použít §8 (Součinnost)
 
 [Historie uchovávání lokalizačních dat](http://www.earchiv.cz/i_retention.php3)
 
-**Historie**
+### Historie
 
 Trestní řád donedávna obsahoval i možnost vyžádání si provozních a lokalizačních údajů od poskytovatelů, telekomunikačních operátorů.
 
@@ -479,44 +476,31 @@ Byly zde neurčité podmínky využitelnosti údajů pro trestní řízení, chy
 
 Ústavní soud zrušil poskytování provozních a lokalizačních údajů dvěma kroky. Nejdříve v březnu roku 2011 zrušil povinnost telekomunikačních operátorů uchovávat tyto údaje a poté na konci stejného roku zrušil možnost vyžádaní těchto údajů úplně.
 
-**Současnost**
+### Současnost
 Zákon o elektronických komunikacích tedy upravuje způsob uchovávání provozních a lokalizačních údajů a vymezuje okruh subjektů, které k nim mohou mít přístup při splnění dalších podmínek. Právě tyto podmínky, za kterých uvedené subjekty mohou získat přístup k uchovaným údajům, upravují další zákony, konkrétně zákon č. 141/1963 Sb., trestní řád, zákon č. 273/2008 Sb., o Policii ČR, zákon č. 154/1994 Sb., o Bezpečnostní informační službě, zákon č. 289/2005 Sb., o Vojenském zpravodajství, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu.
 
 **Odposlech a záznam - zákon č. 127/2005 Sb. **
 
-**[§97** ](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)[(3)](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)
+[§97(3)](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)
 
 **Ochrana osobních, provozních a lokalizačních údajů a důvěrnost komunikací**
 
 **§ 88a (1)** Právnická nebo fyzická osoba zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinna zajistit, aby provozní a lokalizační údaje uchovávané podle § 97 odst. 3 měly stejnou kvalitu a podléhaly stejnému zabezpečení a ochraně před neoprávněným přístupem, změnou, zničením, ztrátou anebo odcizením nebo jiným neoprávněným zpracováním nebo využitím, jako údaje podle § 88; tímto nejsou dotčeny povinnosti stanovené zvláštním právním předpisem 34).
-
-**			**
-
-**						**
-
-• §78 Povinnost k vydání věci
-
-• §88 Odposlech
-
-• §88a Záznam telekomunikačního provozu
-
-• §158d Sledování osob a věcí
+* §78 Povinnost k vydání věci
+* §88 Odposlech
+* §88a Záznam telekomunikačního provozu
+* §158d Sledování osob a věcí
 
 **ROZDÍLY**
 
 Poskytování provozních a lokalizačních údajů na vyžádání není po rozhodnutí ústavního soudu v roce 2011 možné.
 
 **Podle §97 (3)** - Právnická nebo fyzická osoba, která provozní a lokalizační údaje uchovává, je na požádání povinna je bezodkladně poskytnout:
-
-a) orgánům činným v trestním řízení
-
-b) Policii České republiky
-
-c) Bezpečnostní informační službě
-
-d) Vojenskému zpravodajství
-
-e) České národní bance
+1. orgánům činným v trestním řízení
+2. Policii České republiky
+3. Bezpečnostní informační službě
+4. Vojenskému zpravodajství
+5. České národní bance
 
 **ZEK se řídí:**
 
@@ -528,13 +512,13 @@ Zajímavosti:
 
 [http://www.lupa.cz/clanky/chcete-sve-provozni-a-lokalizacni-udaje-pripravte-si-nejmene-1600-kc/](http://www.lupa.cz/clanky/chcete-sve-provozni-a-lokalizacni-udaje-pripravte-si-nejmene-1600-kc/)
 
-**Veřejnoprávní PDV**** - Roman**
+## Veřejnoprávní PDV - Roman
 
-**1. Charakterizujte a stručně popište přestupky na úseku porušování průmyslových práv. Uveďte příklad takového jednání.**
+### 1. Charakterizujte a stručně popište přestupky na úseku porušování průmyslových práv. Uveďte příklad takového jednání.
 
 Přestupek porušování průmyslových práv
 
-Přestupku se dopustí ten, kdo neoprávněně **vykonával** práva, která jsou zákony na ochranu průmyslového vlastnictví vyhrazena majitelům těchto práv [§ 33 odst. 1 písm. a) přestupkového zákona].
+Přestupku se dopustí ten, kdo neoprávněně **vykonával** práva, která jsou zákony na ochranu průmyslového vlastnictví vyhrazena majitelům těchto práv [[§ 33 odst. 1 písm. a) přestupkového zákona](https://www.zakonyprolidi.cz/cs/1990-200#f4380148)].
 
 Na rozdíl od souvisejícího trestného (viz. dole) činu lze postihnout všechna jednání, kterými osoba zasahuje do všech průmyslových práv, naplní-li toto jednání obecné znaky přestupku, a to včetně práv k ochranným známkám či označením původu. Za tento přestupek lze uložit pokutu do 15 000 korun, trest propadnutí věci a za určitých okolností trest zákazu činnosti.
 
@@ -545,7 +529,7 @@ Po konzultaci s kamarádkou právničkou, jsme došli do závěru, že vždy př
 Příkladem přestupku ve věci průmyslových práv může být vytvoření např. součástky, která ale je vyhotovená nějakou speciální metodou. Pokud tato metoda je již patentována ale výrobce o tom nevěděl. Došlo k narušení průmyslového práva nedbalostí, tedy není důvod proč trestat výrobce přísně. Tato věc by ve výsledku se řešila například pokutou.
 
 
-**2. Charakterizujte a stručně popište přestupky a správní delikty na úseku autorského práva. Uveďte příklad takového jednání.**
+### 2. Charakterizujte a stručně popište přestupky a správní delikty na úseku autorského práva. Uveďte příklad takového jednání.
 
 Přestupku se dopustí ten, kdo neoprávněně **užije** autorské dílo, umělecký výkon, zvukový či zvukově obrazový záznam, rozhlasové nebo televizní vysílání nebo databázi.
 
@@ -554,7 +538,7 @@ Opětovně se jedná o rozsah překročení práva. Pokud pořídíte camrecord 
 Pokud v zákoně není jasně řečeno že se jedná o trestný čin nebo přestupek, může se jednat o jiný správní delikt. Správní delikt se řeší pouze dle správního řádu. V rámci správního deliktu hrozí mnoho násobně větší pokuty. U autorského práva platí totéž.
 
 
-**3. Charakterizujte a stručně popište trestný čin porušení chráněných průmyslových práv. Uveďte příklad takového jednání.**
+### 3. Charakterizujte a stručně popište trestný čin porušení chráněných průmyslových práv. Uveďte příklad takového jednání.
 
 **Trestný čin porušování průmyslových práv**
 
@@ -564,10 +548,10 @@ V případě tohoto trestného činu nebude již tak obvyklé, že by jedním sk
 
 Zde se již jedná o závažnější případy. Pokud na výše zmíněném příkladě s součástkou se výrobce obohatil a úmyslně ukradl výrobní metodu. Soud v tomto případě může rozhodnou, že se výrobce dopustil trestného činu.
 
-Paragraf 269 a 270 zákon 40/2009
+[Paragraf 269 a 270 zákon 40/2009](https://www.zakonyprolidi.cz/cs/2009-40#f3920593)
 
 
-**4. Charakterizujte a stručně popište trestný čin porušení autorského práva, práv souvisejících s právem autorským a práv k databázi. Uveďte příklad takového jednání**
+### 4. Charakterizujte a stručně popište trestný čin porušení autorského práva, práv souvisejících s právem autorským a práv k databázi. Uveďte příklad takového jednání
 
 Trestný čin porušování autorského práva, práv souvisejících s právem autorským a práv k databázi
 
@@ -578,7 +562,7 @@ Trestný čin porušování autorského práva, práv souvisejících s právem 
 Pokud ale výše zmíněný camrecord nahrajete na torrent a tím podpoříte šíření, může se již jednat o trestný čin, protože došlo k velké finanční újmě autorovi. Vyčíslit tuto škodu můžeme na základě počtu stažení a tím vyhodnotit počet lidí, kteří nešli z tohoto důvodu do kina.
 
 
-**5. Jakou roli hraje při veřejnoprávní ochraně práv duševního vlastnictví Celní správa ČR? Jaký je rozdíl mezi padělkem a neoprávněnou napodobeninou?**
+### 5. Jakou roli hraje při veřejnoprávní ochraně práv duševního vlastnictví Celní správa ČR? Jaký je rozdíl mezi padělkem a neoprávněnou napodobeninou?
 
 **Padělek**, **falzifikát** nebo **falzum** je předmět, který se vydává za jiný, obvykle cennější předmět. Jeho původce je **padělatel** nebo **falzátor** a jeho činnost je označována jako [padělání](https://cs.wikipedia.org/wiki/Pad%C4%9Bl%C3%A1n%C3%AD). Padělky se vyskytují v mnoha oblastech, počínaje [platidly](https://cs.wikipedia.org/wiki/Platidlo) (penězokazectví), listinami a dokumenty, přes [umělecké předměty](https://cs.wikipedia.org/wiki/Um%C4%9Bn%C3%AD), [starožitnost](https://cs.wikipedia.org/wiki/Staro%C5%BEitnost) i až po [průmyslové](https://cs.wikipedia.org/wiki/Pr%C5%AFmysl) [zboží](https://cs.wikipedia.org/wiki/Zbo%C5%BE%C3%AD), zejména značkové. Příkladem můžou být telefóny iphone s androidem, které na sobě mají logo nakousnutého jablka
 
@@ -588,6 +572,6 @@ Napodobenina se snaží přiblížit vhledu a funkčnosti původního produktu. 
 
 
 
-Celní orgány jsou oprávněny zadržet zboží, které je pod celním dohledem, pokud mají podezření, že toto zboží porušuje práva duševního vlastnictví. Držitel práva duševního vlastnictví **musí** na základě sdělení, že podezřelé zboží bylo zadrženo, zahájit řízení u soudu, **při němž bude určeno, zda zadržené zboží práva duševního vlastnictví skutečně porušuje. Alternativně může držitel práva duševního vlastnictví celnímu úřadu předložit návrh na zničení zadrženého zboží, aniž by bylo nutné zjišťovat, zda toto zboží práva duševního vlastnictví porušuje. K žádosti o zničení zboží musí být připojen souhlas se zničením zboží poskytnutý deklarantem, vlastníkem nebo držitelem zboží.
+Celní orgány jsou oprávněny zadržet zboží, které je pod celním dohledem, pokud mají podezření, že toto zboží porušuje práva duševního vlastnictví. Držitel práva duševního vlastnictví **musí na základě sdělení, že podezřelé zboží bylo zadrženo, zahájit řízení u soudu,** při němž bude určeno, zda zadržené zboží práva duševního vlastnictví skutečně porušuje. Alternativně může držitel práva duševního vlastnictví celnímu úřadu předložit návrh na zničení zadrženého zboží, aniž by bylo nutné zjišťovat, zda toto zboží práva duševního vlastnictví porušuje. K žádosti o zničení zboží musí být připojen souhlas se zničením zboží poskytnutý deklarantem, vlastníkem nebo držitelem zboží.
 
 Celní úřady jsou oprávněny zajistit a následně rozhodnout o propadnutí nebo zabrání zboží naplňujícího znaky porušení zákazu klamavých obchodních praktik. Celní úřady rozhodují v rámci jimi vedeného správního řízení, proto se nevyžaduje zahajování řízení o určení padělku u soudu.
