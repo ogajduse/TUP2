@@ -194,16 +194,21 @@ V České republice můžeme díky zákonu o svobodném přístupu k informacím
 
 [http://www.jaknainternet.cz/page/1701/otevrena-data](http://www.jaknainternet.cz/page/1701/otevrena-data/)
 
+[*pro zajímavost* Otevřená Data v příloze týdeníku Ekonom](http://www.otevrenadata.cz/res/data/003/003663.pdf)
+
 ### 2. Obecná právní úprava otevřených dat
-Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
-* „OD novela" z. č. 298/2016 Sb.
-* Účinnost od 1. 1. 2017
-* Navazuje na PSI novelu – z. č. 222/2015 Sb.
+Zákon č. [106/1999 Sb](https://www.zakonyprolidi.cz/cs/1999-106)., o svobodném přístupu k informacím
+* „OD novela" z. č. [298/2016 Sb.](https://www.zakonyprolidi.cz/cs/2016-298)
+  * Účinnost od 1. 1. 2017
+* Navazuje na PSI novelu – z. č. [222/2015 Sb.](https://www.zakonyprolidi.cz/cs/2015-222)
 * OD = Kvalifikovaný způsob poskytování informací zveřejněním
 
-* **§ 3 odst. 11:** „Otevřenými daty se pro účely tohoto zákona rozumí informace zveřejňované způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není omezen a které jsou evidovány v národním katalogu otevřených dat."
+**§ 3 odst. 11:** *„Otevřenými daty se pro účely tohoto zákona rozumí informace zveřejňované způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není omezen a které jsou evidovány v národním katalogu otevřených dat."*
+
+
 Právní úprava OD v ČR – nová povinnost publikovat
-* **§ 4b odst. 2:** „Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis." • Zmocnění Vlády vydat nařízení, kterým určí informace povinně poskytované jako OD („povinné datové sady“) = nastartování ekosystému OD.
+* **§ 4b odst. 2:** *„Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis."*
+  * Zmocnění Vlády vydat nařízení, kterým určí informace povinně poskytované jako OD („povinné datové sady“) = nastartování ekosystému OD.
 
 ### 3. Technická infrastruktura otevřených dat v ČR (katalogy a způsob registrace)
 
@@ -216,6 +221,7 @@ Právní úprava OD v ČR – nová povinnost publikovat
   * Malá kapacita
   * Předpoklad pro navázání na Evropský katalog OD
 
+[http://5stardata.info/cs/](http://5stardata.info/cs/)
 ![image alt text](img/image_1.png)
 
 ### 4. Právní překážky při otevírání dat
@@ -224,7 +230,7 @@ Právní úprava OD v ČR – nová povinnost publikovat
 * (citlivá, tajná a nebo potenciálně zneužitelná data?)
 * zvláštní právo pořizovatele databáze
 
-**Legislativa ČR**
+**Legislativa ČR:**
 Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/98/ES ze dne 17. listopadu 2003 o opakovaném použití informací veřejného sektoru ve znění Směrnice Evropského parlamentu a Rady 2013/37/EU ze dne 26. června 2013. Evropská směrnice je do české legislativy implementována zákonem 106/1999 Sb. o svobodném přístupu k informacím. Podrobnější rámec pro otevřená data má od 1.1.2017 poskytnout novela zákona č. 106/1999 Sb., o svobodném přístupu k informacím[[10]](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data#cite_note-10).
 
 [https://www.zakonyprolidi.cz/cs/1999-106](https://www.zakonyprolidi.cz/cs/1999-106)
@@ -243,6 +249,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
   * pri porušení je potrebné podať súkromnoprávnu žalobu na súd
     * náklady na súdne konanie, poškodený je účastníkom konania
   * Reaktívny účinok – následne až po vykonaní skutku
+
 
 * Ochrana osobných údajov
   * Osobný údaj
