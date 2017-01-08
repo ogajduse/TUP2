@@ -9,7 +9,7 @@ Návrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a �
 
 teritorialita (místní příslušnost) -  určuje, který soud v rámci stejného článku soustavy soudů má projednat a rozhodnout konkrétní věc
 
-otevřenost systému - [Wiki](https://cs.wikipedia.org/wiki/Otevřený_systém_(informatika)
+otevřenost systému - [Wiki](https://cs.wikipedia.org/wiki/Otevřený_systém_(informatika))
 
 Mapa
 
@@ -195,7 +195,6 @@ V České republice můžeme díky zákonu o svobodném přístupu k informacím
 [http://www.jaknainternet.cz/page/1701/otevrena-data](http://www.jaknainternet.cz/page/1701/otevrena-data/)
 
 ### 2. Obecná právní úprava otevřených dat**
-
 Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
 * „OD novela" z. č. 298/2016 Sb.
 * Účinnost od 1. 1. 2017
@@ -203,55 +202,38 @@ Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
 * OD = Kvalifikovaný způsob poskytování informací zveřejněním
 
 * **§ 3 odst. 11:** „Otevřenými daty se pro účely tohoto zákona rozumí informace zveřejňované způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není omezen a které jsou evidovány v národním katalogu otevřených dat."
-
 Právní úprava OD v ČR – nová povinnost publikovat
-
 * **§ 4b odst. 2:** „Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis." • Zmocnění Vlády vydat nařízení, kterým určí informace povinně poskytované jako OD („povinné datové sady“) = nastartování ekosystému OD.
-
 
 ### 3. Technická infrastruktura otevřených dat v ČR (katalogy a způsob registrace)
 
-**• Národní katalog otevřených dat **
-
-* Informační systém veřejné správy
-
-* Spravuje jej Ministerstvo vnitra (dle § 4c z. č. 106/1999 Sb., o svobodném přístupu k informacím)
-
-* Centrální uzel pro Otevřená data v ČR
-
-* Obsahuje Metadata ke všem OD v ČR
-
-* Může obsahovat rovněž přímo datové sady
-
-* Malá kapacita
-
-* Předpoklad pro navázání na Evropský katalog OD
+* **Národní katalog otevřených dat**
+  * Informační systém veřejné správy
+  * Spravuje jej Ministerstvo vnitra (dle § 4c z. č. 106/1999 Sb., o svobodném přístupu k informacím)
+  * Centrální uzel pro Otevřená data v ČR
+  * Obsahuje Metadata ke všem OD v ČR
+  * Může obsahovat rovněž přímo datové sady
+  * Malá kapacita
+  * Předpoklad pro navázání na Evropský katalog OD
 
 ![image alt text](img/image_1.png)
 
 ### 4. Právní překážky při otevírání dat
-
 * anonymizace dat (ochrana osobních údajů)
-
 * licence, autorská práva
-
 * (citlivá, tajná a nebo potenciálně zneužitelná data?)
-
 * zvláštní právo pořizovatele databáze
 
 **Legislativa ČR**
-
 Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/98/ES ze dne 17. listopadu 2003 o opakovaném použití informací veřejného sektoru ve znění Směrnice Evropského parlamentu a Rady 2013/37/EU ze dne 26. června 2013. Evropská směrnice je do české legislativy implementována zákonem 106/1999 Sb. o svobodném přístupu k informacím. Podrobnější rámec pro otevřená data má od 1.1.2017 poskytnout novela zákona č. 106/1999 Sb., o svobodném přístupu k informacím[[10]](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data#cite_note-10).
 
 [https://www.zakonyprolidi.cz/cs/1999-106](https://www.zakonyprolidi.cz/cs/1999-106)
 
 
 ## Osobní údaje - Maroš
-
 [https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html)** 2.8 - 2.11**
 
 ### 1. Ochrana soukromí a ochrana osobních údajů – teorie a praxe
-
 * Ochrana súkromia
   * súkromnoprávna rovina
   * zaručená:
@@ -267,17 +249,13 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
     * Informácia, pomocou ktorej je možné jednoznačne identifikovať subjekt, hlavne na základne čísla, kódu, kombinácii viacerých znakov.
     * Objektívne poňatie: Ak je možné pomocou tohto údaju spárovať človeka aj ilegálnymi prostriedkami, je to osobný údaj. (Judikatúra v Nemecku a novšie rozhodnutia Súdneho dvora Európskej únie (SDEU)
     * Subjektívne poňatie: Ak je možné pomocou tohto údaju spárovať človeka bez neprimeraných nákladov (legálnymi prostriedkami), potom je to osobný údaj. V opačnom prípade to osobný údaj nie je. (Judikatúra ČR, staršie rozhodnutia SDEU)
-
   * Verejnoprávna rovina
   * Zaručená:
     * Čl. 8 Charty základných ľudských práv Európskej únie
     * Smernica o ochrane fyzických osôb pri spracovaní osobných údajov a voľnom pohybe týchto údajov 95/46/EHS do 28.5.2018
     * Nariadenie o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov od 28.5.2018 – GDPR (General data protection regulation)
     * Zákon o ochrane osobných údajov a o zmene niektorých zákonov č. 101/2000 Sb.
-
   * Pri podozrení na porušenie ochrany možné podať podnet na úrad na ochranu osobných údajov, ten následne zaháji správne konanie a oznamovateľ sa len dozvie výsledok, nie je účastníkom konania
-
-
 
 ### 2. Základní principy zpracování osobních údajů
 * Spracovanie – zákon 101/2001 Sb. §4e
