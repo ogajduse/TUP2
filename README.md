@@ -5,6 +5,8 @@ Dokument je psán v jazyce [Markdown](https://cs.wikipedia.org/wiki/Markdown). P
 
 Přidání nových poznatků, odkazů, informací, či jakéhokoli jiného obsahu, který v dokumentu chybí, lze realizovat prostřednictvím pull requestu. Nad jednotlivými řádky lze diskutovat, můžete také otevřít Issue.
 
+[citace/komentáře, které nebudou zobrazeny lze vkládat následujícím způsobem]: # (Zde je komentář)
+
 ## Zpracovali:
 * Jan Štangler
 * Roman Ligocki
