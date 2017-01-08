@@ -194,7 +194,7 @@ V České republice můžeme díky zákonu o svobodném přístupu k informacím
 
 [http://www.jaknainternet.cz/page/1701/otevrena-data](http://www.jaknainternet.cz/page/1701/otevrena-data/)
 
-### 2. Obecná právní úprava otevřených dat**
+### 2. Obecná právní úprava otevřených dat
 Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
 * „OD novela" z. č. 298/2016 Sb.
 * Účinnost od 1. 1. 2017
