@@ -1,12 +1,16 @@
 # TUP2
 Učební materiály do předmětu TUP2
-## Autoři:
+
+Dokument je psán v jazyce [Markdown](https://cs.wikipedia.org/wiki/Markdown). Pokud byste si s Markdownem nevěděli rady, [zde](https://guides.github.com/features/mastering-markdown/) je menší příručka a [tady](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) menší tahák.
+
+Přidání nových poznatků, odkazů, informací, či jakéhokoli jiného obsahu, který v dokumentu chybí, lze realizovat prostřednictvím pull requestu. Nad jednotlivými řádky lze diskutovat, můžete také otevřít Issue.
+
+## Zpracovali:
 * Jan Štangler
 * Roman Ligocki
-* [Šárka Chwastková] (https://github.com/sarkaaa)
+* [Šárka Chwastková](https://github.com/sarkaaa)
 * Maroš Matisko
-
-Dokument je psán v jazyce [Markdown](https://cs.wikipedia.org/wiki/Markdown). Pokud byste si s Markdownem nevěděli rady, [zde](https://guides.github.com/features/mastering-markdown/) je menší příručka. Přidání nových poznatků, informací, či jakéhokoli jiného obsahu, který v dokumentu chybí, lze realizovat prostřednictvím pull requestu.
+* [Ondřej Gajdušek](https://github.com/ogajduse)
 
 ## Jak přidat/upravit obsah dokumentu, jak vytvořit pull request
 Začněte tím, že vyberete dokument, který chcete upravovat a otevřete jej.
