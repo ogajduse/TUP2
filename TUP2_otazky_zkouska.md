@@ -88,7 +88,7 @@ Pravomoc/příslušnost finančních orgánů, soudů
 
 **1. Daňová jurisdikce**
 
-* Prodej, nákup, export, import zboží, služeb  
+* Prodej, nákup, export, import zboží, služeb
 
 * Zda dané zboží, služba bude zdaněna, ve kterém státě a v jaké výši
 
@@ -120,19 +120,19 @@ Pravomoc/příslušnost finančních orgánů, soudů
 
 * **Mezinárodní daňové organizace**
 
-    *  Evropská organizace daňových správ (IOTA)  
+    *  Evropská organizace daňových správ (IOTA)
 
-    * Americká organizace daňových správ (CIAT)  
+    * Americká organizace daňových správ (CIAT)
 
-    * Organizace pro ekonomickou spolupráci a rozvoj (OECD)  
+    * Organizace pro ekonomickou spolupráci a rozvoj (OECD)
 
-    * Asociace daňových správ Spojeného království (CATA)  
+    * Asociace daňových správ Spojeného království (CATA)
 
     * Centrum frankofonních daňových správ (CREDAF)
 
 **2. Celní jurisdikce**
 
-U zboží  
+U zboží
 
 **Dělení cel**
 
@@ -150,17 +150,17 @@ V obchodu mezi členskými státy EU jsou cla zakázána úplně
 
 1993 – jednotný vnitřní trh, 1994 Celní zákoník
 
-EU – jednotné celní území, odstranění všech cel mezi členskými státy  
+EU – jednotné celní území, odstranění všech cel mezi členskými státy
 
-Společná celní politika vůči nečlenským státům  
+Společná celní politika vůči nečlenským státům
 
 Celní unie s jinými státy, mnohostranné a dvoustranné mezinárodní smlouvy
 
 **3. Dohledová a dozorová jurisdikce**
 
-* Mezinárodní spolupráce  
+* Mezinárodní spolupráce
 
-* Dohled nad finančním trhem, platebním stykem, bankovnictví – ČNB  
+* Dohled nad finančním trhem, platebním stykem, bankovnictví – ČNB
 
 * MF – internetové hry, loterie, sázky
 
@@ -190,7 +190,7 @@ Formát a struktura otevřených dat tedy umožňuje jejich hromadné počítač
 
 Jedná se například o jízdní řády, příjmy států, seznam poskytovatelů sociálních služeb, kalendář ministra nebo měření čistoty ovzduší. Pocházejí z univerzit, nevládních organizací, soukromých firem nebo veřejné správy.
 
-V České republice můžeme díky zákonu o svobodném přístupu k informacím zatím získávat jen část z údajů, které úřady shromážďují. Pokud si o to zažádají a úřad jim vyhoví. Otevřená data by měl naopak zveřejnit sám vydavatel na internetu tak, aby je všichni mohli snadno najít a stáhnout. Otevřená data lze chápat i v širším smyslu - kromě informací veřejné správy lze využít i data komerčních subjektů.  
+V České republice můžeme díky zákonu o svobodném přístupu k informacím zatím získávat jen část z údajů, které úřady shromážďují. Pokud si o to zažádají a úřad jim vyhoví. Otevřená data by měl naopak zveřejnit sám vydavatel na internetu tak, aby je všichni mohli snadno najít a stáhnout. Otevřená data lze chápat i v širším smyslu - kromě informací veřejné správy lze využít i data komerčních subjektů.
 
 [http://www.jaknainternet.cz/page/1701/otevrena-data](http://www.jaknainternet.cz/page/1701/otevrena-data/)
 
