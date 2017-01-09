@@ -364,6 +364,8 @@ Elektronický důkaz =  zdroj relevantní informace v elektronické podobě (dat
 
 Nejobecněji lze v tomto smyslu elektronické důkazní prostředky definovat jako takové „důkazní prostředky, k jejichž převodu do podoby srozumitelné pro člověka je třeba použít nějaké elektronické zařízení".
 
+[http://is.muni.cz/repo/1340183/Polcak_Elektronicke_dukazy.pdf](http://is.muni.cz/repo/1340183/Polcak_Elektronicke_dukazy.pdf)
+
 ### 1. Jaké nároky jsou kladeny na zákonnost elektronického důkazu?
 
 Podle [§ 2 zákona č. 480/2004 Sb.](https://www.zakonyprolidi.cz/cs/2004-480#f2623940), o některých službách informační společnosti, že tyto důkazní prostředky získávají důkazy pomocí sítě elektronických komunikací, elektronických komunikačních zařízení, koncových telekomunikačních zařízení a elektronické pošty. Jedná se o elektronické důkazy jako elektronickou textovou poštu, hlasovou, zvukovou nebo obrazovou zprávu, obsah webových stránek a počítačová data.
@@ -431,12 +433,13 @@ Pozn. se souhlasem soudce lze požadovat tajné informace mimo komunikaci s advo
 **ROZDÍL**
 * §8 je zaměřený na data (utajovaná data), v případě §88 se jedná o prostou komunikaci?
 
->""”*Informace o uživatelských účtech, logy zaznamenávané poskytovatelem, na něž se nevztahuje telekomunikační tajemství, informace o  fungování služby, různá metadata apod. Kromě toho lze tímto způsobem získávat i data, která mají podobný charakter jako provozní a lokalizační údaje, ale nejsou dožadována od poskytovatele telekomunikačních služeb dle ZEK.*””” Polčákova chytrá kniha (106)
+>""”*Informace o uživatelských účtech, logy zaznamenávané poskytovatelem, na něž se nevztahuje telekomunikační tajemství, informace o  fungování služby, různá metadata apod. Kromě toho lze tímto způsobem získávat i data, která mají podobný charakter jako provozní a lokalizační údaje, ale nejsou dožadována od poskytovatele telekomunikačních služeb dle ZEK.*””” [ELEKTRONICKÉ DŮKAZY V TRESTNÍM ŘÍZENÍ
+Radim Polčák, František Púry, Jakub Harašta a kolektiv (s. 106)](http://is.muni.cz/repo/1340183/Polcak_Elektronicke_dukazy.pdf)
 
 -> Jsou-li od poskytovatele služby vyžadována data neobsahující informace, která jsou předmětem povinnosti mlčenlivosti, lze je vyžádat při využití institutu dožádání upraveného v § 8 odst. 1 TŘ.
 
 
-## 4. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k zjišťování obsahu mailové schránky.
+## 4. Popište rozdíly ve fungování §88 TŘ a [§158d](https://www.zakonyprolidi.cz/cs/1961-141#f2680216) TŘ ve vztahu k zjišťování obsahu mailové schránky.
 
 Zákon elektronickou poštu definuje jako textovou, hlasovou, zvukovou nebo obrazovou zprávu poslanou prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne.
 
@@ -478,7 +481,7 @@ Nelze použít §8 (Součinnost)
 
 Trestní řád donedávna obsahoval i možnost vyžádání si provozních a lokalizačních údajů od poskytovatelů, telekomunikačních operátorů.
 
-Tyto informace měli být poskytnuty soudci a v přípravném řízení státnímu zástupci nebo policejnímu orgánu. Ústavní soud však toto ustanovení svými nálezy zrušilo, protože nekladlo dostatečné záruky pro ochranu práva na soukromí.
+Tyto informace měly být poskytnuty soudci a v přípravném řízení státnímu zástupci nebo policejnímu orgánu. Ústavní soud však toto ustanovení svými nálezy zrušilo, protože nekladlo dostatečné záruky pro ochranu práva na soukromí.
 
 Byly zde neurčité podmínky využitelnosti údajů pro trestní řízení, chybějící vymezení trestných činů, při jejichž stíhání lze data použít. To vedlo z nárůstu žádostí o tyto informace a zároveň tedy i k zásahu do základních práv.
 
