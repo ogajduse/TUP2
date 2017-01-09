@@ -358,7 +358,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 * Právo požiadať správcu o vysvetlenie v prípade podozrenia na porušenie zákona pri spracovaní zákona, právo požadovať odstránenie chybného stavu – doplnenie, opravenie, likvidácia OÚ
 
 ## Elektronické důkazy - Honza
-Podle §89 TŘ (2) je důkazem vše, co může přispět k objasnění věci. Důkazní prostředek tak lze vymezit jako *„zdroj, z něhož orgán činný v trestním řízení důkazy čerpá (výpovědi osob, věci)"*
+Podle [§89 TŘ (2)](https://www.zakonyprolidi.cz/cs/1961-141#f2679478) je důkazem vše, co může přispět k objasnění věci. Důkazní prostředek tak lze vymezit jako *„zdroj, z něhož orgán činný v trestním řízení důkazy čerpá (výpovědi osob, věci)"*
 
 Elektronický důkaz =  zdroj relevantní informace v elektronické podobě (data). Pojem elektronické důkazní prostředky není v současném platném právu České republiky nikde definován a vlastně ani zmíněn.
 
@@ -366,10 +366,11 @@ Nejobecněji lze v tomto smyslu elektronické důkazní prostředky definovat ja
 
 ### 1. Jaké nároky jsou kladeny na zákonnost elektronického důkazu?
 
-Podle § 2 zákona č. 480/2004 Sb., o některých službách informační společnosti, že tyto důkazní prostředky získávají důkazy pomocí sítě elektronických komunikací, elektronických komunikačních zařízení, koncových telekomunikačních zařízení a elektronické pošty. Jedná se o elektronické důkazy jako elektronickou textovou poštu, hlasovou, zvukovou nebo obrazovou zprávu, obsah webových stránek a počítačová data.
+Podle [§ 2 zákona č. 480/2004 Sb.](https://www.zakonyprolidi.cz/cs/2004-480#f2623940), o některých službách informační společnosti, že tyto důkazní prostředky získávají důkazy pomocí sítě elektronických komunikací, elektronických komunikačních zařízení, koncových telekomunikačních zařízení a elektronické pošty. Jedná se o elektronické důkazy jako elektronickou textovou poštu, hlasovou, zvukovou nebo obrazovou zprávu, obsah webových stránek a počítačová data.
 
-**Zákon č. 141/1961 Sb., trestní řád**
 ![babis](http://img.cncenter.cz/img/12/normal1050/3126237_cesko-finance-babis.jpg)
+**Zákon č. 141/1961 Sb., trestní řád**
+
 **Procesní nástroje elektronických důkazů**
 
 [§78 Povinnost k vydání věci](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-78)
