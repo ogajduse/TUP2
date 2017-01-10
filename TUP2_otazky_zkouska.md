@@ -265,7 +265,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
   * Pri podozrení na porušenie ochrany možné podať podnet na úrad na ochranu osobných údajov, ten následne zaháji správne konanie a oznamovateľ sa len dozvie výsledok, nie je účastníkom konania
 
 ### 2. Základní principy zpracování osobních údajů
-* Spracovanie – zákon 101/2001 Sb. §4e
+* Spracovanie – zákon 101/2001 Sb. § 4e
   * Operácia alebo sústava operácii, ktoré správca alebo poverený spracovateľ systematicky vykonávajú, a to hlavne automatizovane alebo inými prostriedkami. Sú to prevažne:
     * Zhromažďovanie, ukladanie na nosič informácii, uchovávanie
     * Sprístupňovanie, šírenie, zverejňovanie,
@@ -295,13 +295,13 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 
 ### 3. Osobní údaje a jejich zpracování – vymezení a zúčastněné osoby
 
-* Subjekt údajov – Zákon 101/2000Sb §4d
+* Subjekt údajov – Zákon 101/2000Sb § 4d
   * Fyzická osoba na ktorú sa vzťahujú osobné údaje
   * Má právo požiadať správcu údajov o informáciu o spracovaní svojich osobných údajov:
     * Účel spracovania, kategória OÚ, povaha automatizovaného spracovania, príjemcovia výsledkov spracovania
 
 
-* Správca údajov – Zákon č. 101/2000 Sb. §5 ods. 1
+* Správca údajov – Zákon č. 101/2000 Sb. § 5 ods. 1
   * Subjekt, ktorý zodpovedá za spracovanie údajov, môže poveriť spracovateľa
     * Povinný:
       * Stanoviť účel, prostriedky a spôsob spracovania údajov
@@ -318,14 +318,14 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 
 * Spracovateľ – subjekt, ktorý na základe zvláštneho zákona alebo poverenia správcu spracováva osobné údaje
 
-### 4. Zpracování citlivých osobních údajů – *Zákon 101/2000 Sb. §9*
+### 4. Zpracování citlivých osobních údajů – *Zákon 101/2000 Sb. § 9*
 
 * Citlivé údaje
   * Údaj vypovedajúci o národnostnom, rasovom alebo etnickom pôvodne, politických postojoch, členstvách v odborových organizáciach, náboženské alebo filozofické presvedčenie, odsúdenie za trestný čin, zdravotný stav a sexuálny život subjektu údajov a genetické údaje subjektu údajov (biometrika)
 
 
 * Možné spracovanie na základe:
-  * Výslovný súhlas subjektu údajov, správca je povinný dokázať súhlas počas doby spracovania s informáciami o účele spracovania, spracovateľovi a doby spracovania, je povinný poučiť subjekt údajov o jeho právach podľa §12 a §21
+  * Výslovný súhlas subjektu údajov, správca je povinný dokázať súhlas počas doby spracovania s informáciami o účele spracovania, spracovateľovi a doby spracovania, je povinný poučiť subjekt údajov o jeho právach podľa § 12 a § 21
   * Nevyhnutný záujem na zachovaní života alebo zdravia subjektu údajov alebo odvrátenie bezprostredného závažného nebezpečenstva hroziaceho majetku subjektu údajov, pokiaľ nie je možné získať jeho súhlas z dôvodu fyzickej, psychickej alebo právnej nespôsobilosti, v prípade skončenia platnosti uvedených dôvodov je správca povinný tieto údaje zlikvidovať okrem prípadu, kedy subjekt údajov poskytne súhlas k ich ďalšiemu spracovaniu
   * Poskytovanie zdravotných služieb, ochrany verejného zdravia, zdravotného poistenia a výkon štátnej správy v oblasti zdravotníctva
   * Spracovanie nevyhnutné pre dodržanie povinnosti a práv správcu zodpovedného za spracovanie údajov v oblasti pracovného práva a zamestnanosti podľa zvláštneho zákona (zákon č. 65/1965, zákonník práce)
@@ -346,7 +346,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
   * Spracováva výlučne oprávnene zverejnené OÚ alebo so súhlasom subjektu údajov
 * Správca je povinný bezodkladne povinný informovať subjekt údajov o spracovaní jeho osobných údajov, túto povinnosť môže za správcu plniť spracovateľ OÚ
 
-### 5. Práva subjektu údajů ve vztahu ke správci a zpracovateli – *Zákon 101/2000 Sb. §12, §21*
+### 5. Práva subjektu údajů ve vztahu ke správci a zpracovateli – *Zákon 101/2000 Sb. § 12, § 21*
 
 * Právo na informácie o spracovaní svojich osobných údajov správcom OÚ, obsahuje:
   * Účel spracovania OÚ
@@ -358,7 +358,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 * Právo požiadať správcu o vysvetlenie v prípade podozrenia na porušenie zákona pri spracovaní zákona, právo požadovať odstránenie chybného stavu – doplnenie, opravenie, likvidácia OÚ
 
 ## Elektronické důkazy - Honza
-Podle [§89 TŘ (2)](https://www.zakonyprolidi.cz/cs/1961-141#f2679478) je důkazem vše, co může přispět k objasnění věci. Důkazní prostředek tak lze vymezit jako *„zdroj, z něhož orgán činný v trestním řízení důkazy čerpá (výpovědi osob, věci)"*
+Podle [§ 89 TŘ (2)](https://www.zakonyprolidi.cz/cs/1961-141#f2679478) je důkazem vše, co může přispět k objasnění věci. Důkazní prostředek tak lze vymezit jako *„zdroj, z něhož orgán činný v trestním řízení důkazy čerpá (výpovědi osob, věci)"*
 
 Elektronický důkaz =  zdroj relevantní informace v elektronické podobě (data). Pojem elektronické důkazní prostředky není v současném platném právu České republiky nikde definován a vlastně ani zmíněn.
 
@@ -375,32 +375,32 @@ Podle [§ 2 zákona č. 480/2004 Sb.](https://www.zakonyprolidi.cz/cs/2004-480#f
 
 **Procesní nástroje elektronických důkazů**
 
-[§78 Povinnost k vydání věci](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-78)
+[§ 78 Povinnost k vydání věci](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-78)
 
-[§88 Odposlech](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-88)
+[§ 88 Odposlech](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-88)
 
-[§88a Záznam telekomunikačního provozu](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-88a)
+[§ 88a Záznam telekomunikačního provozu](http://zakony.centrum.cz/trestni-rad/cast-1-hlava-4-oddil-0-paragraf-88a)
 
-[§158d Sledování osob a věcí](http://zakony.centrum.cz/trestni-rad/cast-2-hlava-9-paragraf-158d)
+[§ 158d Sledování osob a věcí](http://zakony.centrum.cz/trestni-rad/cast-2-hlava-9-paragraf-158d)
 
-**§78 TŘ (1)** Kdo má u sebe *hmotnou věc důležitou pro trestní řízení*, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely trestního řízení zajistit, je povinen věc na vyzvání těmto orgánům vydat. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění (§ 66).
+**§ 78 TŘ (1)** Kdo má u sebe *hmotnou věc důležitou pro trestní řízení*, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely trestního řízení zajistit, je povinen věc na vyzvání těmto orgánům vydat. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění (§ 66).
 **(2) **Povinnost podle odstavce 1 se nevztahuje na listinu, jejíž obsah se týká okolnosti, o které platí zákaz výslechu, ledaže došlo k zproštění povinnosti zachovat věc v tajnosti nebo k zproštění povinnosti mlčenlivosti (§ 99).
 **(3)** Vyzvat k vydání věci je oprávněn předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán.
 
-**§88 TŘ (6) **Má-li být záznam telekomunikačního provozu užit jako důkaz, je třeba k němu připojit protokol s uvedením údajů o místě, času, způsobu a obsahu provedeného záznamu, jakož i o orgánu, který záznam pořídil. …
-**§88a TŘ** **(1)** Je-li třeba pro účely trestního řízení vedeného pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně tři roky, pro trestný čin porušení tajemství dopravovaných zpráv (§ 182 trestního zákoníku), pro trestný čin podvodu (§ 209 trestního zákoníku), pro trestný čin neoprávněného přístupu k počítačovému systému a nosiči informací (§ 230 trestního zákoníku), pro trestný čin opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat (§ 231 trestního zákoníku), pro trestný čin nebezpečného vyhrožování (§ 353 trestního zákoníku), pro trestný čin nebezpečného pronásledování (§ 354 trestního zákoníku), pro trestný čin šíření poplašné zprávy (§ 357 trestního zákoníku), pro trestný čin podněcování k trestnému činu (§ 364 trestního zákoníku), pro trestný čin schvalování trestného činu (§ 365 trestního zákoníku), nebo pro úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána…
+**§ 88 TŘ (6) **Má-li být záznam telekomunikačního provozu užit jako důkaz, je třeba k němu připojit protokol s uvedením údajů o místě, času, způsobu a obsahu provedeného záznamu, jakož i o orgánu, který záznam pořídil. …
+**§ 88a TŘ** **(1)** Je-li třeba pro účely trestního řízení vedeného pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně tři roky, pro trestný čin porušení tajemství dopravovaných zpráv (§ 182 trestního zákoníku), pro trestný čin podvodu (§ 209 trestního zákoníku), pro trestný čin neoprávněného přístupu k počítačovému systému a nosiči informací (§ 230 trestního zákoníku), pro trestný čin opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat (§ 231 trestního zákoníku), pro trestný čin nebezpečného vyhrožování (§ 353 trestního zákoníku), pro trestný čin nebezpečného pronásledování (§ 354 trestního zákoníku), pro trestný čin šíření poplašné zprávy (§ 357 trestního zákoníku), pro trestný čin podněcování k trestnému činu (§ 364 trestního zákoníku), pro trestný čin schvalování trestného činu (§ 365 trestního zákoníku), nebo pro úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána…
 
 [https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf](https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf)
 
-## 2. Popište rozdíly ve fungování §88 TŘ a §158d TŘ ve vztahu k použití sledovacího software.
+## 2. Popište rozdíly ve fungování § 88 TŘ a § 158d TŘ ve vztahu k použití sledovacího software.
 
-**§88 TŘ**
+**§ 88 TŘ**
 
 **(2)** Nařídit odposlech a záznam telekomunikačního provozu je oprávněn předseda senátu a v přípravném řízení na návrh státního zástupce soudce ... (písemně)
 
 **(5)** Bez příkazu k odposlechu a záznamu telekomunikačního provozu může orgán činný v trestním řízení nařídit odposlech a záznam telekomunikačního provozu, nebo jej provést i sám, je-li vedeno trestní řízení pro trestný čin obchodování s lidmi (§ 168 trestního zákoníku), svěření dítěte do moci jiného (§ 169 trestního zákoníku), omezování osobní svobody (§ 171 trestního zákoníku), vydírání (§ 175 trestního zákoníku), únosu dítěte a osoby stižené duševní poruchou (§ 200 trestního zákoníku), násilí proti skupině obyvatelů a proti jednotlivci (§ 352 trestního zákoníku), nebezpečného vyhrožování (§ 353 trestního zákoníku) nebo nebezpečného pronásledování (§ 354 trestního zákoníku), pokud s tím uživatel odposlouchávané stanice souhlasí.
 
-**§158d TŘ (2)** Sledování, při kterém mají být pořizovány zvukové, obrazové nebo jiné záznamy, lze uskutečnit pouze na základě písemného povolení státního zástupce.
+**§ 158d TŘ (2)** Sledování, při kterém mají být pořizovány zvukové, obrazové nebo jiné záznamy, lze uskutečnit pouze na základě písemného povolení státního zástupce.
 
 **(3)** Pokud má být sledováním zasahováno do nedotknutelnosti obydlí, do listovního tajemství nebo zjišťován obsah jiných písemností a záznamů uchovávaných v soukromí za použití technických prostředků, lze je uskutečnit jen na základě předchozího povolení soudce. ...
 
@@ -410,28 +410,28 @@ Podle [§ 2 zákona č. 480/2004 Sb.](https://www.zakonyprolidi.cz/cs/2004-480#f
 
 **(6)** Bez splnění podmínek podle odstavců 2 a 3 lze sledování provést, pokud s tím výslovně souhlasí ten, do jehož práv a svobod má být sledováním zasahováno. Je-li takový souhlas dodatečně odvolán, sledování se neprodleně zastaví.
 
-**§158d** - bez spolupráce s poskytovatelem služby (technicky zajišťuje ÚZČ). Při sledování lze pořizovat zvukové, obrazové a jiné záznamy – na povolení státního zástupce. Lze zasahovat do nedotknutelnosti obydlí, do listovního tajemství nebo záznamů uchovaných v soukromí za použití technických prostředků – na povolení soudce. …
+**§ 158d** - bez spolupráce s poskytovatelem služby (technicky zajišťuje ÚZČ). Při sledování lze pořizovat zvukové, obrazové a jiné záznamy – na povolení státního zástupce. Lze zasahovat do nedotknutelnosti obydlí, do listovního tajemství nebo záznamů uchovaných v soukromí za použití technických prostředků – na povolení soudce. …
 
 **ROZDÍL**
 * u 88 lze nařídit odposlech bez příkazu ve stanovených situacích
 * u 88 je délka povolení odposlechu v délce 4 měsíců (možnost opakovaně), u 158d jde o 6 měsíční interval
 * soudce/státní zástupce/předseda senátu (lepší přečíst :D) :+1:
 
-## 3. Popište rozdíly ve fungování §88 TŘ a §8 odst. 5 TŘ ve vztahu k mobilnímu telefonu.
+## 3. Popište rozdíly ve fungování § 88 TŘ a § 8 odst. 5 TŘ ve vztahu k mobilnímu telefonu.
 
-**§88 TŘ (1)** ... Provádění odposlechu a záznamu telekomunikačního provozu mezi obhájcem a obviněným je nepřípustné. Zjistí-li policejní orgán při odposlechu a záznamu telekomunikačního provozu, že obviněný komunikuje se svým obhájcem, je povinen záznam odposlechu bezodkladně zničit a informace, které se v této souvislosti dozvěděl, nijak nepoužít. Protokol o zničení záznamu založí do spisu.
+**§ 88 TŘ (1)** ... Provádění odposlechu a záznamu telekomunikačního provozu mezi obhájcem a obviněným je nepřípustné. Zjistí-li policejní orgán při odposlechu a záznamu telekomunikačního provozu, že obviněný komunikuje se svým obhájcem, je povinen záznam odposlechu bezodkladně zničit a informace, které se v této souvislosti dozvěděl, nijak nepoužít. Protokol o zničení záznamu založí do spisu.
 
 **(9)** Provozovatelé telekomunikační činnosti, jejich zaměstnanci a jiné osoby, které se na provozování telekomunikační činnosti podílejí, jakož i pošta nebo osoba provádějící dopravu zásilek jsou povinny bezúplatně poskytovat policejnímu orgánu provádějícímu sledování podle jeho pokynů nezbytnou součinnost. *Přitom se nelze dovolávat povinnosti mlčenlivosti stanovené zvláštními zákony.*
 
 Pozn.
 > soudním příkazem nebo se souhlasem účastníka odposlouchávané stanice. Důkazem je pouze, pokud je připojen protokol (viz. 1). 4 měsíce - opakované prodlužování.
 
-**§8 TŘ (5)** Nestanoví-li zvláštní zákon podmínky, za nichž lze pro účely trestního řízení sdělovat informace, které jsou podle takového zákona utajovány, nebo na něž se vztahuje povinnost mlčenlivosti, lze tyto informace pro trestní řízení vyžadovat po předchozím souhlasu soudce. Tím není dotčena povinnost mlčenlivosti advokáta podle zákona o advokacii.
+**§ 8 TŘ (5)** Nestanoví-li zvláštní zákon podmínky, za nichž lze pro účely trestního řízení sdělovat informace, které jsou podle takového zákona utajovány, nebo na něž se vztahuje povinnost mlčenlivosti, lze tyto informace pro trestní řízení vyžadovat po předchozím souhlasu soudce. Tím není dotčena povinnost mlčenlivosti advokáta podle zákona o advokacii.
 
 Pozn. se souhlasem soudce lze požadovat tajné informace mimo komunikaci s advokátem.
 
 **ROZDÍL**
-* §8 je zaměřený na data (utajovaná data), v případě §88 se jedná o prostou komunikaci?
+* § 8 je zaměřený na data (utajovaná data), v případě § 88 se jedná o prostou komunikaci?
 
 >""”*Informace o uživatelských účtech, logy zaznamenávané poskytovatelem, na něž se nevztahuje telekomunikační tajemství, informace o  fungování služby, různá metadata apod. Kromě toho lze tímto způsobem získávat i data, která mají podobný charakter jako provozní a lokalizační údaje, ale nejsou dožadována od poskytovatele telekomunikačních služeb dle ZEK.*””” [ELEKTRONICKÉ DŮKAZY V TRESTNÍM ŘÍZENÍ
 Radim Polčák, František Púry, Jakub Harašta a kolektiv (s. 106)](http://is.muni.cz/repo/1340183/Polcak_Elektronicke_dukazy.pdf)
@@ -439,7 +439,7 @@ Radim Polčák, František Púry, Jakub Harašta a kolektiv (s. 106)](http://is.
 -> Jsou-li od poskytovatele služby vyžadována data neobsahující informace, která jsou předmětem povinnosti mlčenlivosti, lze je vyžádat při využití institutu dožádání upraveného v § 8 odst. 1 TŘ.
 
 
-## 4. Popište rozdíly ve fungování §88 TŘ a [§158d](https://www.zakonyprolidi.cz/cs/1961-141#f2680216) TŘ ve vztahu k zjišťování obsahu mailové schránky.
+## 4. Popište rozdíly ve fungování § 88 TŘ a [§ 158d](https://www.zakonyprolidi.cz/cs/1961-141#f2680216) TŘ ve vztahu k zjišťování obsahu mailové schránky.
 
 Zákon elektronickou poštu definuje jako textovou, hlasovou, zvukovou nebo obrazovou zprávu poslanou prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne.
 
@@ -463,7 +463,7 @@ Více str.123 [El. důkazy - Polčák](https://science.law.muni.cz/knihy/monogra
 
 ## 5. Popište rozdíly v modu přístupu k provozním a lokalizačním údajům pro subjekty řídící se zákonem o elektronických komunikacích a pro subjekty, které se tímto zákonem neřídí.
 
-Provozní a lokalizační údaje (6 měsíců) – Platí pro subjekty dle ZEK – mimo ZEK se nevztahuje a uchovávání není nutné. ([ZEK §91](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-91))
+Provozní a lokalizační údaje (6 měsíců) – Platí pro subjekty dle ZEK – mimo ZEK se nevztahuje a uchovávání není nutné. ([ZEK § 91](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-91))
 
 **(1)** Lokalizačními údaji se rozumí jakékoli údaje zpracovávané v síti elektronických komunikací nebo službou elektronických komunikací, které určují zeměpisnou polohu telekomunikačního koncového zařízení uživatele veřejně dostupné služby elektronických komunikací.
 
@@ -473,7 +473,7 @@ Metadata – IP adresa jako identifikátor stroje – nepřímý důkaz
 
 BTS, určení polohy apod.
 
-Nelze použít §8 (Součinnost)
+Nelze použít § 8 (Součinnost)
 
 [Historie uchovávání lokalizačních dat](http://www.earchiv.cz/i_retention.php3)
 
@@ -492,21 +492,21 @@ Zákon o elektronických komunikacích tedy upravuje způsob uchovávání provo
 
 **Odposlech a záznam - zákon č. 127/2005 Sb. **
 
-[§97(3)](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)
+[§ 97(3)](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)
 
 **Ochrana osobních, provozních a lokalizačních údajů a důvěrnost komunikací**
 
 **§ 88a (1)** Právnická nebo fyzická osoba zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinna zajistit, aby provozní a lokalizační údaje uchovávané podle § 97 odst. 3 měly stejnou kvalitu a podléhaly stejnému zabezpečení a ochraně před neoprávněným přístupem, změnou, zničením, ztrátou anebo odcizením nebo jiným neoprávněným zpracováním nebo využitím, jako údaje podle § 88; tímto nejsou dotčeny povinnosti stanovené zvláštním právním předpisem 34).
-* §78 Povinnost k vydání věci
-* §88 Odposlech
-* §88a Záznam telekomunikačního provozu
-* §158d Sledování osob a věcí
+* § 78 Povinnost k vydání věci
+* § 88 Odposlech
+* § 88a Záznam telekomunikačního provozu
+* § 158d Sledování osob a věcí
 
 **ROZDÍLY**
 
 Poskytování provozních a lokalizačních údajů na vyžádání není po rozhodnutí ústavního soudu v roce 2011 možné.
 
-**Podle §97 (3)** - Právnická nebo fyzická osoba, která provozní a lokalizační údaje uchovává, je na požádání povinna je bezodkladně poskytnout:
+**Podle § 97 (3)** - Právnická nebo fyzická osoba, která provozní a lokalizační údaje uchovává, je na požádání povinna je bezodkladně poskytnout:
 1. orgánům činným v trestním řízení
 2. Policii České republiky
 3. Bezpečnostní informační službě
