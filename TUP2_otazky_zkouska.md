@@ -190,7 +190,7 @@ Formát a struktura otevřených dat tedy umožňuje jejich hromadné počítač
 
 Jedná se například o jízdní řády, příjmy států, seznam poskytovatelů sociálních služeb, kalendář ministra nebo měření čistoty ovzduší. Pocházejí z univerzit, nevládních organizací, soukromých firem nebo veřejné správy.
 
-V České republice můžeme díky zákonu o svobodném přístupu k informacím zatím získávat jen část z údajů, které úřady shromážďují. Pokud si o to zažádají a úřad jim vyhoví. Otevřená data by měl naopak zveřejnit sám vydavatel na internetu tak, aby je všichni mohli snadno najít a stáhnout. Otevřená data lze chápat i v širším smyslu - kromě informací veřejné správy lze využít i data komerčních subjektů.
+V České republice můžeme díky zákonu o svobodném přístupu k informacím zatím získávat jen část z údajů, které úřady shromažďují. Pokud si o to zažádají a úřad jim vyhoví. Otevřená data by měl naopak zveřejnit sám vydavatel na internetu tak, aby je všichni mohli snadno najít a stáhnout. Otevřená data lze chápat i v širším smyslu - kromě informací veřejné správy lze využít i data komerčních subjektů.
 
 [http://www.jaknainternet.cz/page/1701/otevrena-data](http://www.jaknainternet.cz/page/1701/otevrena-data/)
 
@@ -546,7 +546,7 @@ Přestupku se dopustí ten, kdo neoprávněně **užije** autorské dílo, uměl
 
 Opětovně se jedná o rozsah překročení práva. Pokud pořídíte camrecord v kině, ale nikomu to nebudete sdílet, bude se jednat o přestupek. Důvodem je, že tím nedošlo k způsobení velké škody a finanční újmě autorovi a tedy není důvod posuzovat tuto věc jako trestný čin.
 
-Pokud v zákoně není jasně řečeno že se jedná o trestný čin nebo přestupek, může se jednat o jiný správní delikt. Správní delikt se řeší pouze dle správního řádu. V rámci správního deliktu hrozí mnoho násobně větší pokuty. U autorského práva platí totéž.
+Pokud v zákoně není jasně řečeno že se jedná o trestný čin nebo přestupek, může se jednat o jiný správní delikt. Správní delikt se řeší pouze dle správního řádu. V rámci správního deliktu hrozí mnohonásobně větší pokuty. U autorského práva platí totéž.
 
 
 ### 3. Charakterizujte a stručně popište trestný čin porušení chráněných průmyslových práv. Uveďte příklad takového jednání.
@@ -575,7 +575,7 @@ Pokud ale výše zmíněný camrecord nahrajete na torrent a tím podpoříte š
 
 ### 5. Jakou roli hraje při veřejnoprávní ochraně práv duševního vlastnictví Celní správa ČR? Jaký je rozdíl mezi padělkem a neoprávněnou napodobeninou?
 
-**Padělek**, **falzifikát** nebo **falzum** je předmět, který se vydává za jiný, obvykle cennější předmět. Jeho původce je **padělatel** nebo **falzátor** a jeho činnost je označována jako [padělání](https://cs.wikipedia.org/wiki/Pad%C4%9Bl%C3%A1n%C3%AD). Padělky se vyskytují v mnoha oblastech, počínaje [platidly](https://cs.wikipedia.org/wiki/Platidlo) (penězokazectví), listinami a dokumenty, přes [umělecké předměty](https://cs.wikipedia.org/wiki/Um%C4%9Bn%C3%AD), [starožitnost](https://cs.wikipedia.org/wiki/Staro%C5%BEitnost) i až po [průmyslové](https://cs.wikipedia.org/wiki/Pr%C5%AFmysl) [zboží](https://cs.wikipedia.org/wiki/Zbo%C5%BE%C3%AD), zejména značkové. Příkladem můžou být telefóny iphone s androidem, které na sobě mají logo nakousnutého jablka
+**Padělek**, **falzifikát** nebo **falzum** je předmět, který se vydává za jiný, obvykle cennější předmět. Jeho původce je **padělatel** nebo **falzátor** a jeho činnost je označována jako [padělání](https://cs.wikipedia.org/wiki/Pad%C4%9Bl%C3%A1n%C3%AD). Padělky se vyskytují v mnoha oblastech, počínaje [platidly](https://cs.wikipedia.org/wiki/Platidlo) (penězokazectví), listinami a dokumenty, přes [umělecké předměty](https://cs.wikipedia.org/wiki/Um%C4%9Bn%C3%AD), [starožitnost](https://cs.wikipedia.org/wiki/Staro%C5%BEitnost) i až po [průmyslové](https://cs.wikipedia.org/wiki/Pr%C5%AFmysl) [zboží](https://cs.wikipedia.org/wiki/Zbo%C5%BE%C3%AD), zejména značkové. Příkladem můžou být telefony iphone s androidem, které na sobě mají logo nakousnutého jablka
 
 Napodobenina se snaží přiblížit vhledu a funkčnosti původního produktu. Příkladem může být iphone s androidem, ale samotný produkt se snaží čistě přiblížit vhledu a funkčnosti, nesnaží se být originálem.
 
