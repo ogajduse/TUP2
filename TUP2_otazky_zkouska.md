@@ -221,6 +221,10 @@ Právní úprava OD v ČR – nová povinnost publikovat
   * Malá kapacita
   * Předpoklad pro navázání na Evropský katalog OD
 
+
+* **Registrace lokálního katalogu OD v NKOD**
+  * [http://opendata.gov.cz/cinnost:registrace-vlastniho-katalogu-v-nkod](http://opendata.gov.cz/cinnost:registrace-vlastniho-katalogu-v-nkod)
+
 [http://5stardata.info/cs/](http://5stardata.info/cs/)
 ![image alt text](img/image_1.png)
 
