@@ -243,6 +243,8 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 ## Osobní údaje - Maroš
 [https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html)** 2.8 - 2.11**
 
+[https://is.cuni.cz/webapps/zzp/download/120115907](https://is.cuni.cz/webapps/zzp/download/120115907)
+
 ### 1. Ochrana soukromí a ochrana osobních údajů – teorie a praxe
 * Ochrana súkromia
   * súkromnoprávna rovina
