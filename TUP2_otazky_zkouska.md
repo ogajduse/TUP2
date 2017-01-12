@@ -463,6 +463,8 @@ Pozn. v případě 158d nám může být poskytnuto zařízení ke kompletní ko
 
 Paradox - v Německu mají odlišný přístup - schránka chráněna komunikačním tajemstvím.
 
+[Stanovisko NSZ na toto téma](http://www.nsz.cz/images/stories/PDF/Stanoviska_Proces/2015/1_SL_760-2014.pdf)
+
 Více str.123 [El. důkazy - Polčák](https://science.law.muni.cz/knihy/monografie/Polcak_Elektronicke_dukazy.pdf)
 
 ## 5. Popište rozdíly v modu přístupu k provozním a lokalizačním údajům pro subjekty řídící se zákonem o elektronických komunikacích a pro subjekty, které se tímto zákonem neřídí.
