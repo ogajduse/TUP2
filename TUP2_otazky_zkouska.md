@@ -1,6 +1,3 @@
-Předtermín proběhne dne 21. prosince 2016. Přihlašování bude možné od 1. prosince 2016 od 17:00. Už není
-Návrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a čtvrtek 19. ledna 2017. To fakt jít nechcete
-
 # Otázky
 
 ## Jurisdikce - Šárka
@@ -10,8 +7,6 @@ Návrhy dalších termínů: čtvrtek 5. ledna 2017, čtvrtek 12. ledna 2017 a �
 teritorialita (místní příslušnost) -  určuje, který soud v rámci stejného článku soustavy soudů má projednat a rozhodnout konkrétní věc
 
 otevřenost systému - [Wiki](https://cs.wikipedia.org/wiki/Otevřený_systém_(informatika))
-
-Mapa
 
 Pozn.
 >problém je, že věci řešíme různými způsoby a je potřeba vytvořit ucelený systém, podle kterého by se mělo postupovat -> úmluva.
@@ -53,7 +48,7 @@ c) Finanční jurisdikce
 
 -  Jejichž následky se na území tohoto státu projevily
 
-- Které mají jen nepřímou souvislost s tímto územím
+-  Které mají jen nepřímou souvislost s tímto územím
 
 -  Lze stíhat TČ, jejichž pachatel se nachází mimo zemí ČR, příklady
 
@@ -241,11 +236,12 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
 
 
 ## Osobní údaje - Maroš
-[https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html)** 2.8 - 2.11**
+[https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html](https://is.muni.cz/do/1492/el/sitmu/law/html/souhlas.html) **2.8 - 2.11**
 
 [https://is.cuni.cz/webapps/zzp/download/120115907](https://is.cuni.cz/webapps/zzp/download/120115907)
 
 ### 1. Ochrana soukromí a ochrana osobních údajů – teorie a praxe
+
 * Ochrana súkromia
   * súkromnoprávna rovina
   * zaručená:
@@ -269,6 +265,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
     * Nariadenie o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov od 28.5.2018 – GDPR (General data protection regulation)
     * Zákon o ochrane osobných údajov a o zmene niektorých zákonov č. 101/2000 Sb.
   * Pri podozrení na porušenie ochrany možné podať podnet na úrad na ochranu osobných údajov, ten následne zaháji správne konanie a oznamovateľ sa len dozvie výsledok, nie je účastníkom konania
+
 
 ### 2. Základní principy zpracování osobních údajů
 * Spracovanie – zákon 101/2001 Sb. § 4e
@@ -390,11 +387,15 @@ Podle [§ 2 zákona č. 480/2004 Sb.](https://www.zakonyprolidi.cz/cs/2004-480#f
 [§ 158d Sledování osob a věcí](http://zakony.centrum.cz/trestni-rad/cast-2-hlava-9-paragraf-158d)
 
 **§ 78 TŘ (1)** Kdo má u sebe *hmotnou věc důležitou pro trestní řízení*, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely trestního řízení zajistit, je povinen věc na vyzvání těmto orgánům vydat. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění (§ 66).
-**(2) **Povinnost podle odstavce 1 se nevztahuje na listinu, jejíž obsah se týká okolnosti, o které platí zákaz výslechu, ledaže došlo k zproštění povinnosti zachovat věc v tajnosti nebo k zproštění povinnosti mlčenlivosti (§ 99).
+
+**(2)** Povinnost podle odstavce 1 se nevztahuje na listinu, jejíž obsah se týká okolnosti, o které platí zákaz výslechu, ledaže došlo k zproštění povinnosti zachovat věc v tajnosti nebo k zproštění povinnosti mlčenlivosti (§ 99).
+
 **(3)** Vyzvat k vydání věci je oprávněn předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán.
 
-**§ 88 TŘ (6) **Má-li být záznam telekomunikačního provozu užit jako důkaz, je třeba k němu připojit protokol s uvedením údajů o místě, času, způsobu a obsahu provedeného záznamu, jakož i o orgánu, který záznam pořídil. …
-**§ 88a TŘ** **(1)** Je-li třeba pro účely trestního řízení vedeného pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně tři roky, pro trestný čin porušení tajemství dopravovaných zpráv (§ 182 trestního zákoníku), pro trestný čin podvodu (§ 209 trestního zákoníku), pro trestný čin neoprávněného přístupu k počítačovému systému a nosiči informací (§ 230 trestního zákoníku), pro trestný čin opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat (§ 231 trestního zákoníku), pro trestný čin nebezpečného vyhrožování (§ 353 trestního zákoníku), pro trestný čin nebezpečného pronásledování (§ 354 trestního zákoníku), pro trestný čin šíření poplašné zprávy (§ 357 trestního zákoníku), pro trestný čin podněcování k trestnému činu (§ 364 trestního zákoníku), pro trestný čin schvalování trestného činu (§ 365 trestního zákoníku), nebo pro úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána…
+**§ 88 TŘ (6)** Má-li být záznam telekomunikačního provozu užit jako důkaz, je třeba k němu připojit protokol s uvedením údajů o místě, času, způsobu a obsahu provedeného záznamu, jakož i o orgánu, který záznam pořídil. …
+
+
+**§ 88a TŘ (1)** Je-li třeba pro účely trestního řízení vedeného pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně tři roky, pro trestný čin porušení tajemství dopravovaných zpráv (§ 182 trestního zákoníku), pro trestný čin podvodu (§ 209 trestního zákoníku), pro trestný čin neoprávněného přístupu k počítačovému systému a nosiči informací (§ 230 trestního zákoníku), pro trestný čin opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat (§ 231 trestního zákoníku), pro trestný čin nebezpečného vyhrožování (§ 353 trestního zákoníku), pro trestný čin nebezpečného pronásledování (§ 354 trestního zákoníku), pro trestný čin šíření poplašné zprávy (§ 357 trestního zákoníku), pro trestný čin podněcování k trestnému činu (§ 364 trestního zákoníku), pro trestný čin schvalování trestného činu (§ 365 trestního zákoníku), nebo pro úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána…
 
 [https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf](https://is.muni.cz/th/359937/fi_b/Bc_prace_Elektronicke_dukazni_prostredky.pdf)
 
@@ -498,7 +499,7 @@ Byly zde neurčité podmínky využitelnosti údajů pro trestní řízení, chy
 ### Současnost
 Zákon o elektronických komunikacích tedy upravuje způsob uchovávání provozních a lokalizačních údajů a vymezuje okruh subjektů, které k nim mohou mít přístup při splnění dalších podmínek. Právě tyto podmínky, za kterých uvedené subjekty mohou získat přístup k uchovaným údajům, upravují další zákony, konkrétně zákon č. 141/1963 Sb., trestní řád, zákon č. 273/2008 Sb., o Policii ČR, zákon č. 154/1994 Sb., o Bezpečnostní informační službě, zákon č. 289/2005 Sb., o Vojenském zpravodajství, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu.
 
-**Odposlech a záznam - zákon č. 127/2005 Sb. **
+**Odposlech a záznam - zákon č. 127/2005 Sb.**
 
 [§ 97(3)](http://zakony.centrum.cz/zakon-o-elektronickych-komunikacich/cast-1-hlava-5-dil-1-paragraf-97)
 
