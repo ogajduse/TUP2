@@ -352,7 +352,7 @@ Otevřená data v ČR vychází ze Směrnice Evropského parlamentu a Rady 2003/
   * Spracováva výlučne oprávnene zverejnené OÚ alebo so súhlasom subjektu údajov
 * Správca je povinný bezodkladne povinný informovať subjekt údajov o spracovaní jeho osobných údajov, túto povinnosť môže za správcu plniť spracovateľ OÚ
 
-### 5. Práva subjektu údajů ve vztahu ke správci a zpracovateli – *Zákon 101/2000 Sb. § 12, § 21*
+### 5. Práva subjektu údajů ve vztahu ke správci a zpracovateli – *Zákon 101/2000 Sb. [§ 12](https://www.zakonyprolidi.cz/cs/2000-101#f2017883), [§ 21](https://www.zakonyprolidi.cz/cs/2000-101#f2017980)*
 
 * Právo na informácie o spracovaní svojich osobných údajov správcom OÚ, obsahuje:
   * Účel spracovania OÚ
