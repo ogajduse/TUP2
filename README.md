@@ -8,7 +8,7 @@ Přidání nových poznatků, odkazů, informací, či jakéhokoli jiného obsah
 [citace/komentáře, které nebudou zobrazeny lze vkládat následujícím způsobem]: # (Zde je komentář)
 
 ## Zpracovali:
-* Jan Štangler
+* [Jan Štangler](https://github.com/jstangle)
 * Roman Ligocki
 * [Šárka Chwastková](https://github.com/sarkaaa)
 * [Maroš Matisko](https://github.com/marosmatisko)
