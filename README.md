@@ -11,7 +11,7 @@ Přidání nových poznatků, odkazů, informací, či jakéhokoli jiného obsah
 * Jan Štangler
 * Roman Ligocki
 * [Šárka Chwastková](https://github.com/sarkaaa)
-* Maroš Matisko
+* [Maroš Matisko](https://github.com/marosmatisko)
 * [Ondřej Gajdušek](https://github.com/ogajduse)
 
 ## Jak přidat/upravit obsah dokumentu, jak vytvořit pull request
