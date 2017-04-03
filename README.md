@@ -1,5 +1,5 @@
 # TUP2
-Učební materiály do předmětu TUP2
+Učební materiály do předmětu TUP2 vyučovaného na FEKT VUT Brno.
 
 Dokument je psán v jazyce [Markdown](https://cs.wikipedia.org/wiki/Markdown). Pokud byste si s Markdownem nevěděli rady, [zde](https://guides.github.com/features/mastering-markdown/) je menší příručka a [tady](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) menší tahák.
 
