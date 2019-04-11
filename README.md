@@ -9,7 +9,7 @@ Přidání nových poznatků, odkazů, informací, či jakéhokoli jiného obsah
 
 ## Zpracovali:
 * [Jan Štangler](https://github.com/jstangle)
-* Roman Ligocki
+* [Roman Ligocki](https://github.com/rligocki)
 * [Šárka Chwastková](https://github.com/sarkaaa)
 * [Maroš Matisko](https://github.com/marosmatisko)
 * [Ondřej Gajdušek](https://github.com/ogajduse)
